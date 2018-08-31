@@ -1,0 +1,30 @@
+
+.linktable {
+	table-layout: fixed;
+	width:100%;}
+
+
+/* ヘッダー */
+.linktable thead th {
+	background:	#FFFFEE;
+	font-weight: bold;
+	color:#000000;
+}
+
+/* ボディ　フッター */
+.linktable tbody th,
+.linktable tfoot th {
+	background:rgb(255, 255, 255);
+}
+
+/* ボディ・フッターデータ */
+.linktable tbody td,
+.linktable tfoot td {
+	text-align:left;
+}
+
+/* 偶数行の色変え */
+.linktable tr:nth-child(2n) th, 
+.linktable tr:nth-child(2n) td {
+    background: rgb(255, 245, 255);
+}
