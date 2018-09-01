@@ -39,6 +39,5 @@ description: |
 # jekyll-github-metadata
 repository: sanabutton/sanabutton.github.io
 
-
 jekyll-mentions:
   base_url: https://twitter.com
