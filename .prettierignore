@@ -1,0 +1,21 @@
+## files
+.gitkeep
+.*rc
+.*ignore
+
+LICENSE
+CNAME
+
+Gemfile
+
+
+## extensions
+# image
+*.png
+# audio
+*.mp3
+# markup
+*.xml
+*.html
+# common lock file
+*.lock
