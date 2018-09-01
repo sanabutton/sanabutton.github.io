@@ -1,0 +1,44 @@
+# Jekyll
+timezone: Asia/Tokyo
+encoding: UTF-8
+
+future: false
+show_drafts: false
+
+#relative_permalinks: true
+
+permalink: /blog/:year/:month/:day/:title
+#paginate_path: 'page:num'
+
+markdown: kramdown
+
+url: https://www.natorisana.love
+kramdown:
+  input: GFM
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-avatar
+  - jemoji
+  - jekyll-mentions
+  # not documented yet.
+  # https://github.com/github/pages-gem/commit/0c79d7caf66bf209d08d3ee3829c217716a63479
+  - jekyll-octicons
+
+# Plugins Config
+## common
+title: すこだぞ
+description: |
+  さなボタン。
+  "バーチャルナース"名取さなとそのファンである"せんせえ"方の、情報とかコンテンツとかをまとめたり。
+
+# jekyll-github-metadata
+repository: sanabutton/sanabutton.github.io
+
+
+jekyll-mentions:
+  base_url: https://twitter.com
