@@ -4,14 +4,15 @@
     <meta name="robots" content="noindex,nofollow">
     <meta name="viewport" content="initial-scale=1">
     <link rel="stylesheet" type="text/css" href="fixed.css">
-    <script src="fixedTop.js"></script>
+
+    <!-- ユーザスクリプトは、ここで読み込むライブラリを使用しているので、</body> の直前で読み込む -->
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
     <title>さなボタン </title>
 
 </head>
 <body>
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="http://code.jquery.com/jquery-1.9.1.min.js" type="text/javascript"></script>
-<script src="scroll.js"></script>
 
 <button type="button" id="stop-button" class="fixed">とめる？</button>
 <br>
@@ -27,7 +28,6 @@
     Tweet
 </a>
 </div>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 
 
@@ -38,6 +38,8 @@
         <th>オマージュ<br>素敵なボタンサイト様</th>
         </thead>
         <tbody>
+        <tr>
+            <th><a href="http://sanabutton.ojaru.jp">（元の）さなボタン</a>様
         <tr>
             <th><a href="http://ushiumi.ichiya-boshi.net/">宇志海ボタン</a>様
         <tr>
@@ -391,7 +393,7 @@
     <button type="button" class="sounds" data-file="./sound/美術館/ってね14">ってね74</button>
     <button type="button" class="sounds" data-file="./sound/美術館/ってね15">ってね75</button>
     <br>
-    <button type="button" class="sounds" data-file="./sound/せんせえとないしょばなし/つーぎ♡">つーぎ♡</button>
+    <button type="button" class="sounds" data-file="./sound/せんせえとないしょばなし/つーぎ">つーぎ♡</button>
     <button type="button" class="sounds" data-file="./sound/せんせえとないしょばなし/つぎつぎつーぎ">つぎつぎつーぎ</button>
     <button type="button" class="sounds" data-file="./sound/せんせえとないしょばなし/つぎつぎつーぎ02">つぎつぎつーぎ02</button>
     <button type="button" class="sounds" data-file="./sound/せんせえとないしょばなし/つぎつぎつーぎ03">つぎつぎつーぎ03</button>
@@ -462,7 +464,7 @@
     <button type="button" class="sounds" data-file="./sound/GW振り返り配信/頑張って無理しないで">頑張って無理しないで</button>
     <br>
     <button type="button" class="sounds" data-file="./sound/GW振り返り配信/辛かったら…">辛かったら…</button>
-    <button type="button" class="sounds" data-file="./sound/GW振り返り配信/ガチ恋好きにして♡">ガチ恋好きにして♡</button>
+    <button type="button" class="sounds" data-file="./sound/GW振り返り配信/ガチ恋好きにして">ガチ恋好きにして♡</button>
     <button type="button" class="sounds" data-file="./sound/GW振り返り配信/なとりは近くに…">なとりは近くに…</button>
     <button type="button" class="sounds" data-file="./sound/GW振り返り配信/名前くらい">名前くらい</button>
     <br>
@@ -471,7 +473,7 @@
     <button type="button" class="sounds" data-file="./sound/GW振り返り配信/おやすみー">おやすみー01</button>
     <button type="button" class="sounds" data-file="./sound/看護の日…とは言ったものの/おやすみー02">おやすみー02</button>
     <button type="button" class="sounds" data-file="./sound/看護の日…とは言ったものの/えらいね">えらいね</button>
-    <button type="button" class="sounds" data-file="./sound/看護の日…とは言ったものの/そうだね♡">そうだね♡</button>
+    <button type="button" class="sounds" data-file="./sound/看護の日…とは言ったものの/そうだね">そうだね♡</button>
     <button type="button" class="sounds" data-file="./sound/看護の日…とは言ったものの/すこすこだぞ">すこすこだぞ</button>
     <button type="button" class="sounds" data-file="./sound/看護の日…とは言ったものの/やめてよー">やめてよー</button>
     <button type="button" class="sounds" data-file="./sound/看護の日…とは言ったものの/浮気はだめ">浮気はだめ</button>
@@ -1642,7 +1644,6 @@
 
     <HR style="margin: 1em 0 ;">
     <div id="#totop"><a href="#">ページのトップへ戻る</a></div>
-    <script src="button.js"></script>
 
     <a href="https://twitter.com/sana_natori"><img src="./Twitter.png"></a>　<a
         href="https://www.youtube.com/channel/UCIdEIHpS0TdkqRkHL5OkLtA"><img src="./Youtube.png"></a>
@@ -1662,10 +1663,12 @@
             <td width="500" height="600">
                 <a class="twitter-timeline" data-lang="ja" data-width="500" data-height="600"
                    href="https://twitter.com/sana_natori?ref_src=twsrc%5Etfw">Tweets by sana_natori</a>
-                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </td>
         </tr>
     </table>
 
+<script src="scroll.js"></script>
+<script src="fixedTop.js"></script>
+<script src="button.js"></script>
 </body>
 </html>
