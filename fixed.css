@@ -8,13 +8,14 @@
   cursor: pointer;
   border-radius: 20px;
   background: -webkit-gradient(
-    linear,
-    left top,
-    left bottom,
-    from(rgb(255, 198, 198)),
-    to(#ffc4c4)
+          linear,
+          left top,
+          left bottom,
+          from(rgb(255, 198, 198)),
+          to(#ffc4c4)
   );
 }
+
 .fixed:hover {
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
@@ -39,6 +40,7 @@
   z-index: 9999;
   border-radius: 5px;
 }
+
 #fixedTop:hover {
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
@@ -60,6 +62,7 @@
   text-shadow: 1px 1px 0 #ffffff;
   background: rgb(255, 200, 140);
 }
+
 #fixedBottom:hover {
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
