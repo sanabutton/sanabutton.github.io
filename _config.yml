@@ -29,9 +29,10 @@ plugins:
 # Plugins Config
 ## common
 title: すこだぞ
-description: |
-  さなボタン。
-  "バーチャルナース"名取さなとそのファンである"せんせえ"方の、情報とかコンテンツとかをまとめたり。
+description: >
+  さなボタンをはじめ、
+  "バーチャルナース"名取さなと
+  そのファンである"せんせえ"方の情報とかコンテンツとかをまとめたり。
 
 # jekyll-github-metadata
 repository: sanabutton/sanabutton.github.io
