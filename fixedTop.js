@@ -13,20 +13,3 @@ $(function() {
     }
   });
 });
-
-function addPageScroller() {
-  var $fixedBottom = $("fixedBottom");
-  if ($fixedBottom.size() > 0) {
-    $(window).scroll(function(event) {
-      if ($(this).scrollTop() > 200) {
-        $fixedBottom.fadeOut();
-      } else {
-        $fixedBottom.fadeIn();
-      }
-    });
-    $fixedBottom.click(function(event) {
-      $("html,body").animate({ scrollTop: $("body").height() }, 500);
-      return event.preventDefault();
-    });
-  }
-}
