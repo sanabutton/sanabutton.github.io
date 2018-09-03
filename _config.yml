@@ -17,6 +17,8 @@ kramdown:
   input: GFM
 
 # Plugins
+theme:
+
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
