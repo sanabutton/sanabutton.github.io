@@ -5,7 +5,7 @@ var syncerSounds = {
 };
 
 // 即時関数
-(function() {
+document.addEventListener("DOMContentLoaded", function() {
   // 設定
   var setClass = "sounds"; // ボタン要素のクラス名
   var setDir = "./"; // 音声ファイルがあるフォルダ(最後は[/])
@@ -74,4 +74,4 @@ var syncerSounds = {
     stopCurrentSound();
     return false;
   };
-})();
+});
