@@ -8,7 +8,7 @@ var syncerSounds = {
 document.addEventListener("DOMContentLoaded", function() {
   // 設定
   var setClass = "sounds"; // ボタン要素のクラス名
-  var setDir = "./"; // 音声ファイルがあるフォルダ(最後は[/])
+  var setDir = "/sounds/"; // 音声ファイルがあるフォルダ(最後は[/])
   var setStopButtonId = "stop-button"; // 停止ボタンに付けるID
 
   // クラス名が付いた要素を取得する
