@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
   /** @var ボタン要素のクラス名 */
   var soundButtonClassName = "sounds";
   /** @var 音声ファイルがあるフォルダ。末尾に `/` を含む */
-  var soundsBasePath = "/sounds/";
+  var soundsBasePath = "https://www.natorisana.love/sounds/";
   /** @var 停止ボタンに付ける ID */
   var stopButtonId = "stop-button";
 
