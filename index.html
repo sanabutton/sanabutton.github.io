@@ -20,9 +20,8 @@
     <link href="main.css" rel="stylesheet" type="text/css">
 
     <!-- scripts -->
-    <script src="https://unpkg.com/smoothscroll-polyfill@0.4.3/dist/smoothscroll.min.js"></script>
-    <script src="scroll.js"></script>
     <script src="button.js"></script>
+    <script async src="https://unpkg.com/smoothscroll-polyfill@0.4.3/dist/smoothscroll.min.js"></script>
     <script async src="https://platform.twitter.com/widgets.js"></script>
 
     <title>さなボタン(2)</title>
@@ -53,7 +52,7 @@
 {% include contents.html %}
 
 <hr style="margin: 1em 0 ;">
-<div><a id="totop" href="#">ページのトップへ戻る</a></div>
+<div><a href="javascript:scroll({ top: 0, left: 0, behavior:'smooth'})">ページのトップへ戻る</a></div>
 {% include footer.html %}
 </body>
 </html>
