@@ -1,16 +1,11 @@
-$(function() {
-  // #で始まるアンカーをクリックした場合に処理
-  $("a[href^='#']").click(function() {
-    // スクロールの速度
-    var speed = 1200; // ミリ秒
-    // アンカーの値取得
-    var href = $(this).attr("href");
-    // 移動先を取得
-    var target = $(href == "#" || href == "" ? "html" : href);
-    // 移動先を数値で取得
-    var position = target.offset().top;
-    // スムーススクロール
-    $("body,html").animate({ scrollTop: position }, speed, "swing");
-    return false;
+"use strict";
+document.addEventListener("DOMContentLoaded", function() {
+  var toTopLink = document.querySelector("#totop");
+  if (!toTopLink) {
+    throw new Error("ページ先頭に戻るボタンが存在しません");
+  }
+  toTopLink.addEventListener("click", function(e) {
+    e.preventDefault();
+    window.scroll({ top: 0, left: 0, behavior: "smooth" });
   });
 });
