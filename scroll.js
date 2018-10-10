@@ -1,6 +1,6 @@
 "use strict";
 document.addEventListener("DOMContentLoaded", function() {
-  const toTopLink = document.querySelector("#totop");
+  var toTopLink = document.querySelector("#totop");
   if (!toTopLink) {
     throw new Error("ページ先頭に戻るボタンが存在しません");
   }
