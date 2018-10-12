@@ -1,0 +1,8 @@
+version: "3"
+services:
+  sana_button:
+    build: .
+    volumes:
+      - ./:/usr/src/app
+    ports:
+      - 4000:4000
