@@ -1,7 +1,13 @@
 version: "3"
 services:
-  sana_button:
-    build: .
+  parcel:
+    image: node
+    volumes:
+      - ./:/usr/src
+    working_dir: /usr/src
+    command: npx parcel-bundler build --watch
+  github-pages:
+    image: sanabutton2/github-pages
     volumes:
       - ./:/usr/src/app
     ports:
