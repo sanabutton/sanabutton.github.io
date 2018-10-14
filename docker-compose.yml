@@ -1,14 +1,15 @@
 version: "3"
 services:
-  parcel:
-    image: node
+  build-client:
+    image: sanabutton2/parcel
     volumes:
-      - ./:/usr/src
-    working_dir: /usr/src
-    command: npx parcel-bundler build --watch
-  github-pages:
+      - ./:/usr/src/app
+    command: parcel watch _typescript/main.ts _typescript/main-async.ts
+    environment:
+      # https://github.com/parcel-bundler/parcel/issues/564#issuecomment-363924561
+      - CHOKIDAR_USEPOLLING=1
+
+  build-backend:
     image: sanabutton2/github-pages
     volumes:
       - ./:/usr/src/app
-    ports:
-      - 4000:4000
