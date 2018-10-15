@@ -11,3 +11,10 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# parcel
+.cache/
+
+## まだ使ってないので､一時的に。
+## ちゃんとビルドやデプロイのフローを整備したら、消すかも
+/dist/
