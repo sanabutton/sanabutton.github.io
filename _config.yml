@@ -9,6 +9,20 @@ show_drafts: false
 
 permalink: /blog/:year/:month/:day/:title
 #paginate_path: 'page:num'
+exclude:
+  # general repository files
+  - README.md
+  - CNAME
+  # Docker
+  - docker-compose.yml
+  - Dockerfile
+  # Ruby
+  - Gemfile
+  - Gemfile.lock
+  # Node.js
+  - package.json
+  - package-lock.json
+  - node_modules
 
 markdown: kramdown
 
