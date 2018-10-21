@@ -1,42 +1,16 @@
 ---
+layout: home
 ---
-<!doctype html>
-<html lang="ja">
-<head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125646809-1"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-125646809-1');
-    </script>
-
-    <meta charset="UTF-8">
-    <meta name="viewport" content="initial-scale=1">
-
-{% include favicon.html %}
-
-    <!-- css -->
-    <link href="main.css" rel="stylesheet" type="text/css">
-
-    <!-- scripts -->
-    <script src="button.js"></script>
-    <script async src="https://unpkg.com/smoothscroll-polyfill@0.4.3/dist/smoothscroll.min.js"></script>
-    <script async src="https://platform.twitter.com/widgets.js"></script>
-
-    <title>さなボタン(2)</title>
-
-</head>
-<body>
-
+<!-- ndxbn 2018-10-22 this comment is label to assert deploy -->
 <!-- メインコンテンツよりも手前のレイヤーに表示するもの ここから -->
 <button type="button" id="stop-button" class="fixed">とめる？</button>
 <!-- メインコンテンツよりも手前のレイヤーに表示するもの ここまで -->
 
 <br>
 
+<header>
 {% include header.html %}
+</header>
 
 <br>
 
@@ -51,7 +25,7 @@
 
 <hr style="margin: 1em 0 ;">
 <div><a href="javascript:scroll({ top: 0, left: 0, behavior:'smooth'})">ページのトップへ戻る</a></div>
-<div>連絡先：<a href="https://twitter.com/ndxbn">@ndxbn（Twitter）</a> もしくは <a href="https://github.com/sanabutton/sanabutton.github.io/issues">GitHub ISSUE</a></div>
+
+<footer>
 {% include footer.html %}
-</body>
-</html>
+</footer>
