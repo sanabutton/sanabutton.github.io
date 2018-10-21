@@ -1,15 +1,15 @@
 version: "3"
 services:
-  build-front:
+  build-frontend:
     image: sanabutton2/parcel
     volumes:
       - ./:/usr/src/app
-    command: npm run watch:front
+    command: npm run watch:frontend
     environment:
       # https://github.com/parcel-bundler/parcel/issues/564#issuecomment-363924561
       - CHOKIDAR_USEPOLLING=1
 
-  build-back:
+  build-backend:
     image: sanabutton2/github-pages
     volumes:
       - ./:/usr/src/app

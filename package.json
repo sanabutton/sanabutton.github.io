@@ -3,13 +3,13 @@
   "name": "sanabutton.github.io",
   "scripts": {
     "build": "run-s build:parcel build:jekyll",
-    "build:front": "parcel build _typescript/main.ts _typescript/main-async.ts",
-    "build:back": "bundle exec jekyll build build",
+    "build:frontend": "parcel build _frontend/main.ts _frontend/main-async.ts",
+    "build:backend": "bundle exec jekyll build build",
     "watch": "run-p watch:*",
-    "watch:front": "parcel watch _typescript/main.ts _typescript/main-async.ts",
-    "watch:back": "bundle exec jekyll build --watch",
+    "watch:frontend": "parcel watch _frontend/main.ts _frontend/main-async.ts",
+    "watch:backend": "bundle exec jekyll build --watch",
     "serve": "run-p watch:parcel serve:jekyll",
-    "serve:back": "bundle exec jekyll serve --watch"
+    "serve:backend": "bundle exec jekyll serve --watch"
   },
   "devDependencies": {
     "npm-run-all": "^4.1.3",
