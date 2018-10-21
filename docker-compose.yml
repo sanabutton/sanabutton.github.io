@@ -1,15 +1,15 @@
 version: "3"
 services:
-  build-client:
+  build-front:
     image: sanabutton2/parcel
     volumes:
       - ./:/usr/src/app
-    command: parcel watch _typescript/main.ts _typescript/main-async.ts
+    command: npm run watch:front
     environment:
       # https://github.com/parcel-bundler/parcel/issues/564#issuecomment-363924561
       - CHOKIDAR_USEPOLLING=1
 
-  build-backend:
+  build-back:
     image: sanabutton2/github-pages
     volumes:
       - ./:/usr/src/app
