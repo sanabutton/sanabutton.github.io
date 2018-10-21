@@ -13,3 +13,11 @@ services:
     image: sanabutton2/github-pages
     volumes:
       - ./:/usr/src/app
+    command: jekyll build --watch
+
+  server:
+    image: nginx:alpine
+    volumes:
+      - ./_site:/usr/share/nginx/html
+    ports:
+      - 4000:80
