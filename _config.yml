@@ -7,7 +7,7 @@ show_drafts: false
 
 #relative_permalinks: true
 
-permalink: /blog/:year/:month/:day/:title
+permalink: none
 #paginate_path: 'page:num'
 exclude:
   # general repository files
@@ -46,9 +46,7 @@ plugins:
 ## common
 title: さなボタン(2)
 description: >
-  さなボタンをはじめ、
-  "バーチャルナース"名取さなと
-  そのファンである"せんせえ"方の情報とかコンテンツとかをまとめたり。
+  名取さなの声が再生されるボタン置き場
 
 # jekyll-github-metadata
 repository: sanabutton/sanabutton.github.io
