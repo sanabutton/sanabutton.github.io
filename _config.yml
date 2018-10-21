@@ -7,7 +7,7 @@ show_drafts: false
 
 #relative_permalinks: true
 
-permalink: /:year-:month-:day/:title
+permalink: none
 #paginate_path: 'page:num'
 exclude:
   # general repository files
