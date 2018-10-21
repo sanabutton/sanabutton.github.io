@@ -1,8 +1,0 @@
-@startuml
-actor browser as "ブラウザ"
-node main as "さなボタン(2)「本体」\n www.natorisana.love"
-storage sounds as "「音源」置き場\n www.natorisana.love/sounds/"
-
-browser --> main: 音声以外の静的ファイルの取得
-browser --> sounds: ボタンが押されたら\n 音声ファイルを取得
-@enduml
