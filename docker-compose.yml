@@ -13,7 +13,7 @@ services:
     image: sanabutton2/github-pages
     volumes:
       - ./:/usr/src/app
-    command: jekyll build --watch
+    command: jekyll build --watch --force_polling
 
   server:
     image: nginx:alpine
