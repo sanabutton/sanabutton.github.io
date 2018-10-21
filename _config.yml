@@ -13,6 +13,7 @@ exclude:
   # general repository files
   - README.md
   - CNAME
+  - docs/
   # Docker
   - docker-compose.yml
   - Dockerfile
