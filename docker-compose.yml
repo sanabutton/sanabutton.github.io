@@ -16,8 +16,8 @@ services:
     command: jekyll build --watch --force_polling
 
   server:
-    image: nginx:alpine
+    image: httpd:alpine
     volumes:
-      - ./_site:/usr/share/nginx/html
+      - ./_site/:/usr/local/apache2/htdocs
     ports:
       - 4000:80
