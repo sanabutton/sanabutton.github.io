@@ -7,11 +7,12 @@ show_drafts: false
 
 #relative_permalinks: true
 
-permalink: none
+permalink: /buttons/:slug:output_ext
 #paginate_path: 'page:num'
 exclude:
   # general repository files
   - README.md
+  - CODE_OF_CONDUCT.md
   - CNAME
   # Docker
   - docker-compose.yml
