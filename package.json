@@ -2,7 +2,8 @@
   "private": true,
   "name": "sanabutton.github.io",
   "scripts": {
-    "test": "",
+    "test": "run-p lint test:*",
+    "test:small": "node --version",
     "build": "run-s build:frontend build:backend",
     "build:frontend": "parcel build _frontend/main.ts _frontend/main-async.ts",
     "build:backend": "bundle exec jekyll build",
