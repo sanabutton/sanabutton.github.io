@@ -1,0 +1,9 @@
+{
+  "extends": "@ndxbn/preset-typescript/tsconfig.json",
+  "compilerOptions": {
+    "noEmit": true
+  },
+  "include": [
+    "_frontend/**/*.ts"
+  ]
+}
