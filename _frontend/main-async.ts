@@ -1,3 +1,3 @@
 import Sample from "./Sample";
 
-console.log(Sample.message("async!!"));
+Sample.message("async!!");

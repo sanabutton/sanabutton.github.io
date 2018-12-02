@@ -24,6 +24,9 @@ exclude:
   - package.json
   - package-lock.json
   - node_modules
+  - coverage
+  - tsconfig.json
+  - tslint.json
 
 markdown: kramdown
 
