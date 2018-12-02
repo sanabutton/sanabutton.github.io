@@ -12,6 +12,7 @@ permalink: /buttons/:slug:output_ext
 exclude:
   # general repository files
   - README.md
+  - CODE_OF_CONDUCT.md
   - CNAME
   # Docker
   - docker-compose.yml
