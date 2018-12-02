@@ -1,0 +1,4 @@
+---
+---
+{%- assign posts = site.posts | reverse -%}
+{{ posts | map: "buttons" | jsonify }}
