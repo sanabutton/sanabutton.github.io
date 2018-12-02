@@ -1,0 +1,16 @@
+---
+# 更新日順でソートした、post の一覧の JSON を返す API。
+# 「JSON をビルドするテンプレート」とかいう、クッソ闇でメンテナビリティの低いクソ。
+---
+{%- assign posts = site.posts | sort: "last_modified_at" | reverse -%}
+{
+{{ posts[0].slug | jsonify }}: {{ posts[0].last_modified_at | jsonify }}
+
+{%- for post in posts offset:1 -%}
+  {%- unless post.last_modified_at -%}
+    {% break %}
+  {%- endunless -%}
+  ,"{{ post.slug | jsonify }}": "{{ post.last_modified_at | jsonify }}"
+{%- endfor %}
+
+}
