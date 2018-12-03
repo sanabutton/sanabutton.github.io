@@ -44,5 +44,8 @@
     "roots": [
       "<rootDir>/_frontend/"
     ]
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
   }
 }
