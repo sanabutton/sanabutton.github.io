@@ -1,5 +1,7 @@
 {
-  "extends": [
-    "@ndxbn/preset-tslint"
-  ]
+  "extends": ["@ndxbn/preset-tslint"],
+  "rules": {
+    "no-console": false,
+    "interface-name": [true, "never-prefix"]
+  }
 }
