@@ -1,6 +1,6 @@
-// import axios from "axios";
 import HttpClient from "./HttpClient";
-// import { Buttons } from "./types/Responses";
+import { ButtonsInterface } from "./types/Buttons";
+import { UpdatedListInterface } from "./types/UpdatedList";
 
 export default class SanabuttonClient {
   public readonly httpClient: HttpClient;
@@ -9,8 +9,19 @@ export default class SanabuttonClient {
     this.httpClient = httpClient;
   }
 
-  // public async buttons(): Promise<Buttons> {
-  //   const path = "/api/v1/buttons.json";
-  //   axios.get("https://www.natorisana.love" + path);
-  // }
+  public async buttons(): Promise<ButtonsInterface> {
+    const path = "/api/v1/buttons.json";
+    const response: ButtonsInterface | null = await this.httpClient.get(path);
+
+    return response == null ? [[[]]] : response;
+  }
+
+  public async updatedList(): Promise<UpdatedListInterface> {
+    const path = "/api/v1/updated.json";
+    const response: UpdatedListInterface | null = await this.httpClient.get(
+      path
+    );
+
+    return response == null ? new Map() : response;
+  }
 }

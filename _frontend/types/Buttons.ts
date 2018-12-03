@@ -1,4 +1,4 @@
-export interface Button {
+export interface ButtonInterface {
   "file-name": string;
   value: string;
 }
@@ -26,4 +26,4 @@ export interface Button {
  * ]
  * ```
  */
-export type Buttons = Button[][][];
+export type ButtonsInterface = ButtonInterface[][][];
