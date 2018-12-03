@@ -20,7 +20,8 @@
     "fmt": "run-s format",
     "format": "run-p format:*",
     "format:typescript": "prettier --write \"**/*.ts\"",
-    "format:markdown": "prettier --write \"**/*.md\""
+    "format:markdown": "prettier --write \"**/*.md\"",
+    "format:tslint": "tslint -p tsconfig.json --fix"
   },
   "devDependencies": {
     "@ndxbn/preset-jest": "latest",
