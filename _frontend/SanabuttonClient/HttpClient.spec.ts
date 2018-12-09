@@ -1,4 +1,4 @@
-import HttpClient from "../HttpClient";
+import HttpClient from "./HttpClient";
 
 test("basic usage", async () => {
   const responseData = await HttpClient.create().get("/api/v1/updateds.json");
