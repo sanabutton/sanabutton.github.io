@@ -43,6 +43,16 @@
     "preset": "@ndxbn/preset-jest",
     "roots": [
       "<rootDir>/_frontend/"
+    ],
+    "collectCoverageFrom": [
+      "**"
+    ],
+    "coveragePathIgnorePatterns": [
+      "/node_modules/",
+      "index.js",
+      "index.ts",
+      "main.ts",
+      "main-async.ts"
     ]
   },
   "dependencies": {
