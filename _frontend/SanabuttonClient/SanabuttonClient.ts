@@ -4,7 +4,7 @@ import SanabuttonClientInterface, {
   UpdatedListInterface
 } from "./SanabuttonClientInterface";
 
-export default class HttpRequest implements SanabuttonClientInterface {
+export default class SanabuttonClient implements SanabuttonClientInterface {
   public readonly httpClient: HttpClient;
 
   public constructor(httpClient: HttpClient) {
