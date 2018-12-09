@@ -1,6 +1,6 @@
 import HttpClient from "./HttpClient";
-import { ButtonsInterface } from "./types/Buttons";
-import { UpdatedListInterface } from "./types/UpdatedList";
+import { ButtonsInterface } from "./Buttons";
+import { UpdatedListInterface } from "./UpdatedList";
 
 export default class HttpRequest {
   public readonly httpClient: HttpClient;
