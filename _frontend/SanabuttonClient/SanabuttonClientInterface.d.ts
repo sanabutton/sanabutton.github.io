@@ -31,7 +31,6 @@ export interface ButtonInterface {
 export type ButtonsInterface = ButtonInterface[][][];
 export type UpdatedListInterface = Map<string, moment.Moment>;
 
-
 export default interface SanabuttonClientInterface {
   buttons(): Promise<ButtonsInterface>;
   updatedList(): Promise<UpdatedListInterface>;
