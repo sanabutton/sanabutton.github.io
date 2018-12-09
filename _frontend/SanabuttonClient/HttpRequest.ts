@@ -1,9 +1,10 @@
 import HttpClient from "./HttpClient";
-import { ButtonsInterface } from "./Buttons";
-import { UpdatedListInterface } from "./UpdatedList";
-import SanabuttonClientInterface from "./SanabuttonClientInterface";
+import SanabuttonClientInterface, {
+  ButtonsInterface,
+  UpdatedListInterface
+} from "./SanabuttonClientInterface";
 
-export default class HttpRequest implements SanabuttonClientInterface{
+export default class HttpRequest implements SanabuttonClientInterface {
   public readonly httpClient: HttpClient;
 
   public constructor(httpClient: HttpClient) {
