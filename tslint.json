@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "@ndxbn/preset-tslint"
+  ]
+}
