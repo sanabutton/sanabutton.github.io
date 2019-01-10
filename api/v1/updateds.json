@@ -10,7 +10,7 @@
   {%- unless post.last_modified_at -%}
     {% break %}
   {%- endunless -%}
-  ,"{{ post.slug | jsonify }}": "{{ post.last_modified_at | jsonify }}"
+  ,{{ post.slug | jsonify }}: {{ post.last_modified_at | jsonify }}
 {%- endfor %}
 
 }
