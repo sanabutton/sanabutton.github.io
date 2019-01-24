@@ -1,21 +1,35 @@
-## files
+# project commons
 .gitkeep
 .*rc
 .*ignore
+.editorconfig
 
 LICENSE
 CNAME
 
 Gemfile
 
+## IntelliJ
+.idea
 
-## extensions
-# image
-*.png
-# audio
-*.mp3
-# markup
-*.xml
-*.html
-# common lock file
+## common lock file
 *.lock
+
+# project specifics
+## api has JSON with Front Matter
+api/
+
+# we wanna write HTML freedom
+*.html
+
+# Not Supported Files
+## images
+*.png
+*.jpg
+*.ico
+## XML
+*.xml
+## PlantUML
+*.puml
+## SASS
+*.sass
