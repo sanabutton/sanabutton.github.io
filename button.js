@@ -3,8 +3,7 @@ var syncerSounds = {
   currentTime: null
 };
 
-document.addEventListener("DOMContentLoaded", function () {
-
+document.addEventListener("DOMContentLoaded", function() {
   /** @var ボタン要素のクラス名 */
   var soundButtonClassName = "sounds";
   /** @var 音声ファイルがあるフォルダ。末尾に `/` を含む */
@@ -15,8 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
   var sounds = document.getElementsByClassName(soundButtonClassName);
 
   for (var i = 0, l = sounds.length; l > i; i++) {
-    sounds[i].onclick = function () {
-
+    sounds[i].onclick = function() {
       var file = this.getAttribute("data-file");
 
       // 一度生成したエレメントは生成しない
@@ -66,7 +64,7 @@ document.addEventListener("DOMContentLoaded", function () {
    * 停止ボタンをクリックした時のイベントを登録する
    * @returns {boolean}
    */
-  document.getElementById(stopButtonId).onclick = function () {
+  document.getElementById(stopButtonId).onclick = function() {
     stopCurrentSound();
     return false;
   };

@@ -6,7 +6,6 @@
 
 ## Requirements
 
-- [Node.js LTS](https://nodejs.org/ja)
 - [Ruby 安定版](https://www.ruby-lang.org/ja/)
 
 もしくは
