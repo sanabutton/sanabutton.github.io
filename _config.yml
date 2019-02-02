@@ -14,12 +14,15 @@ exclude:
   - README.md
   - CODE_OF_CONDUCT.md
   - CNAME
+  # IntelliJ
+  - .idea
   # Docker
   - docker-compose.yml
   - Dockerfile
   # Ruby
   - Gemfile
   - Gemfile.lock
+  - vendor
   # Node.js
   - package.json
   - package-lock.json
