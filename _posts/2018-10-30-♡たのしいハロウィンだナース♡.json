@@ -159,3 +159,4 @@ buttons:
     - file-name: たのしいハロウィンだナース/ばいばーい！
       value: ばいばーい！
 ---
+{{ page.buttons | jsonify }}

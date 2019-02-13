@@ -97,3 +97,4 @@ buttons:
     - file-name: さなボタン2だけでせんせえたちと会話がなりたつのか/ﾎﾞﾀﾝ「こんかこともうやめまｓ
       value: ﾎﾞﾀﾝ「こんなこともうやめまｓ
 ---
+{{ page.buttons | jsonify }}

@@ -451,3 +451,4 @@ buttons:
     - file-name: Let‘s GO！メスガキ四天王序列三位/まったね～
       value: まったね～
 ---
+{{ page.buttons | jsonify }}

@@ -169,3 +169,4 @@ buttons:
     - file-name: 今日は9月31日/以上、終わり！
       value: 以上、終わり！
 ---
+{{ page.buttons | jsonify }}

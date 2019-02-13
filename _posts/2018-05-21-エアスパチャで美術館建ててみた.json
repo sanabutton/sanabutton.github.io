@@ -281,3 +281,4 @@ buttons:
     - file-name: 美術館/おつかれさな
       value: おつかれさな
 ---
+{{ page.buttons | jsonify }}

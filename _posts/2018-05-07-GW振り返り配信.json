@@ -217,3 +217,4 @@ buttons:
     - file-name: GW振り返り配信/余命が500年
       value: 余命が500年
 ---
+{{ page.buttons | jsonify }}

@@ -207,3 +207,4 @@ buttons:
   - - file-name: どうも、知的で可愛い名取さなです。/うるせ～～～～～！
       value: うるせ～～～～～！
 ---
+{{ page.buttons | jsonify }}

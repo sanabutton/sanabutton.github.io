@@ -423,3 +423,4 @@ buttons:
     - file-name: 沼地の魔女こと名取さなですけども/対あり
       value: 対あり
 ---
+{{ page.buttons | jsonify }}

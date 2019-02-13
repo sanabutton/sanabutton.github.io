@@ -115,3 +115,4 @@ buttons:
     - file-name: バイノーラルテスト配信/押し売り
       value: 押し売り
 ---
+{{ page.buttons | jsonify }}

@@ -299,3 +299,4 @@ buttons:
     - file-name: 毎年カップル板クリスマスコピペを見てブチ切れていた女の配信/サイバーポリスオチ
       value: サイバーポリスオチ
 ---
+{{ page.buttons | jsonify }}

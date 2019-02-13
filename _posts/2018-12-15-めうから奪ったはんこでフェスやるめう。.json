@@ -615,3 +615,4 @@ buttons:
     - file-name: めうから奪ったはんこでフェスやるめう。/オチ
       value: オチ
 ---
+{{ page.buttons | jsonify }}

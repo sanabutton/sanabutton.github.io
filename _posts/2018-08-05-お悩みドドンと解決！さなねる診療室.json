@@ -55,3 +55,4 @@ buttons:
     - file-name: さなねる診療室/てぇてぇ
       value: てぇてぇ
 ---
+{{ page.buttons | jsonify }}

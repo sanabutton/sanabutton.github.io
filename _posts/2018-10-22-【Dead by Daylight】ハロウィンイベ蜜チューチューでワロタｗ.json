@@ -307,3 +307,4 @@ buttons:
     - file-name: ハロウィンイベ蜜チューチューでワロタ/冥ちゃんの屈伸
       value: 冥ちゃんの屈伸
 ---
+{{ page.buttons | jsonify }}

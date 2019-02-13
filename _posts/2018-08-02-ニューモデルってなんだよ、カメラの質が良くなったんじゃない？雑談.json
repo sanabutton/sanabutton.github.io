@@ -157,3 +157,4 @@ buttons:
     - file-name: ニューモデル雑談/ばいばーい2
       value: ばいばーい2
 ---
+{{ page.buttons | jsonify }}

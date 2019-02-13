@@ -401,3 +401,4 @@ buttons:
     - file-name: なんでもないはなしをしよう/ねこちゃんせんせえのありがたいお言葉
       value: ねこちゃんせんせえのありがたいお言葉
 ---
+{{ page.buttons | jsonify }}

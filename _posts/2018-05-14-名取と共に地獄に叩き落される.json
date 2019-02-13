@@ -339,3 +339,4 @@ buttons:
     - file-name: 名取と共に地獄に叩き落される/親のBGMより聞いたBGMおまけ
       value: 親のBGMより聞いたBGMおまけ
 ---
+{{ page.buttons | jsonify }}

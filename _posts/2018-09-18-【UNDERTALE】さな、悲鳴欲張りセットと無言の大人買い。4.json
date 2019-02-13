@@ -41,3 +41,4 @@ buttons:
     - file-name: さな、悲鳴欲張りセットと無言の大人買い。/あっはい
       value: あっはい
 ---
+{{ page.buttons | jsonify }}

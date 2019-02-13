@@ -123,3 +123,4 @@ buttons:
     - file-name: ぽんぽこ24リターンズ/許してくれるかな？
       value: 許してくれるかな？
 ---
+{{ page.buttons | jsonify }}

@@ -166,3 +166,4 @@ buttons:
     - file-name: せんせえがバーチャルさんを見ている時バーチャルさんもまた以下略/迫真2月27日
       value: 迫真2月27日
 ---
+{{ page.buttons | jsonify }}

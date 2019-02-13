@@ -1145,3 +1145,4 @@ buttons:
     - file-name: 首の長さを修正したことを懺悔してみた/ありがとう6
       value: ありがとう6
 ---
+{{ page.buttons | jsonify }}

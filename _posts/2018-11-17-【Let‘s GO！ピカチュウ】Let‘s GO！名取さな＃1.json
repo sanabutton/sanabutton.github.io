@@ -372,3 +372,4 @@ buttons:
     - file-name: Let‘s GO！名取さな＃1/スクエニ様もポケモンにするナース
       value: スクエニ様もポケモンにするナース
 ---
+{{ page.buttons | jsonify }}

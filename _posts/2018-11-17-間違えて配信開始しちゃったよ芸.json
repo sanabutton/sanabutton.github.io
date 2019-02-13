@@ -221,3 +221,4 @@ buttons:
     - file-name: 間違えて配信開始しちゃったよ芸/配信切り忘れ芸
       value: 配信切り忘れ芸
 ---
+{{ page.buttons | jsonify }}

@@ -219,3 +219,4 @@ buttons:
     - file-name: おはようございナース！(夜)/名取ィ！風呂空いたぞ
       value: 名取ィ！風呂空いたぞ
 ---
+{{ page.buttons | jsonify }}

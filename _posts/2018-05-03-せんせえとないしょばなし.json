@@ -129,3 +129,4 @@ buttons:
     - file-name: せんせえとないしょばなし/すきすきだよー
       value: すきすきだよー
 ---
+{{ page.buttons | jsonify }}

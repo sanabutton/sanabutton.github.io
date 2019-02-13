@@ -99,3 +99,4 @@ buttons:
     - file-name: ７万人ありがと！告知とホラゲ/悲鳴8
       value: 悲鳴8
 ---
+{{ page.buttons | jsonify }}

@@ -181,3 +181,4 @@ buttons:
     - file-name: 看護の日…とは言ったものの/アクリルフィギュア10
       value: アクリルフィギュア10
 ---
+{{ page.buttons | jsonify }}

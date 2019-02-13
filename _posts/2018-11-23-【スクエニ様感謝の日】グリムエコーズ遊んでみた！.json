@@ -287,3 +287,4 @@ buttons:
     - file-name: グリムエコーズ遊んでみた/おつかれさな
       value: おつかれさな
 ---
+{{ page.buttons | jsonify }}

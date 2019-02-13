@@ -299,3 +299,4 @@ buttons:
     - file-name: 地獄のセリフリクエスト配信/†今北産業†3
       value: †今北産業†3
 ---
+{{ page.buttons | jsonify }}

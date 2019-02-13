@@ -195,3 +195,4 @@ buttons:
     - file-name: もう夏が来てる、ってマ～？/貧乳税
       value: 貧乳税
 ---
+{{ page.buttons | jsonify }}

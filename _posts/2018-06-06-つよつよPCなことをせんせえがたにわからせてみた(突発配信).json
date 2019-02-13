@@ -345,3 +345,4 @@ buttons:
     - file-name: つよつよPCチャレンジゲリラ/今日もお疲れ様でした
       value: 今日もお疲れ様でした
 ---
+{{ page.buttons | jsonify }}

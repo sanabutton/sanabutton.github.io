@@ -55,3 +55,4 @@ buttons:
     - file-name: さなねる診療室リターンズ/Vol3では…？
       value: Vol3では…？
 ---
+{{ page.buttons | jsonify }}

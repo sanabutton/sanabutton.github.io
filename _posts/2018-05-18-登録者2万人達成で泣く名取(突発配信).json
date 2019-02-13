@@ -335,3 +335,4 @@ buttons:
     - file-name: 登録者2万人達成で泣く名取/祝砲
       value: 祝砲
 ---
+{{ page.buttons | jsonify }}

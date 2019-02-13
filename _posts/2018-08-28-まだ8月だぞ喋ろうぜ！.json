@@ -183,3 +183,4 @@ buttons:
     - file-name: まだ8月だぞ喋ろうぜ！/ざくっ
       value: ざくっ
 ---
+{{ page.buttons | jsonify }}

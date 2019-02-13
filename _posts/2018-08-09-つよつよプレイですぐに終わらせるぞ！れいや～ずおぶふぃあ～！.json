@@ -237,3 +237,4 @@ buttons:
     - file-name: れいや～ずおぶふぃあ～Part4/ほなまた
       value: ほなまた
 ---
+{{ page.buttons | jsonify }}

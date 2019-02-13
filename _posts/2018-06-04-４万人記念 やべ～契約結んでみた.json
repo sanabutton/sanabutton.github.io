@@ -183,3 +183,4 @@ buttons:
     - file-name: ４まんにんってなんまんにん？/月曜日お疲れ様でした
       value: 月曜日お疲れ様でした
 ---
+{{ page.buttons | jsonify }}

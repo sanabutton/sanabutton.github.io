@@ -281,3 +281,4 @@ buttons:
     - file-name: 6万人記念でホラゲ/くそでかBGM先輩
       value: くそでかBGM先輩
 ---
+{{ page.buttons | jsonify }}

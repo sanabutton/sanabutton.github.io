@@ -719,3 +719,4 @@ buttons:
     - file-name: Let‘s GO！限界オタク＃2/ピカチュウ8
       value: ピカチュウ8
 ---
+{{ page.buttons | jsonify }}

@@ -37,3 +37,4 @@ buttons:
     - file-name: 間違えて配信開始しちゃいたい芸/一緒に焼きおにぎり
       value: 一緒に焼きおにぎり
 ---
+{{ page.buttons | jsonify }}

@@ -181,3 +181,4 @@ buttons:
     - file-name: 年内最後の懺悔大感謝セール/お疲れさな～
       value: お疲れさな～
 ---
+{{ page.buttons | jsonify }}

@@ -201,3 +201,4 @@ buttons:
     - file-name: 名取と七夕ばーべきゅー/悲鳴6
       value: 悲鳴6
 ---
+{{ page.buttons | jsonify }}

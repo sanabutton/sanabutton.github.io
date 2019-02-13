@@ -59,3 +59,4 @@ buttons:
     - file-name: バーチャルサナトリウムお嬢様部/ばいえべ～
       value: ばいえべ～
 ---
+{{ page.buttons | jsonify }}

@@ -181,3 +181,4 @@ buttons:
     - file-name: youandme/よろしくお願いしま～～～～～
       value: よろしくお願いしま～～～～～
 ---
+{{ page.buttons | jsonify }}

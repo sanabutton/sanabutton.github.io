@@ -277,3 +277,4 @@ buttons:
     - file-name: 今日何の日か知ってる？/ばいばーい
       value: ばいばーい
 ---
+{{ page.buttons | jsonify }}

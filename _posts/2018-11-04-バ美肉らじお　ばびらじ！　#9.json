@@ -37,3 +37,4 @@ buttons:
     - file-name: バ美肉らじお9/ツラ拝んだ
       value: ツラ拝んだ
 ---
+{{ page.buttons | jsonify }}

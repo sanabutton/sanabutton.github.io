@@ -499,3 +499,4 @@ buttons:
     - file-name: Let‘s GO！淑女オタク＃3/ア゛ア゛ア゛ア゛ア゛
       value: ア゛ア゛ア゛ア゛ア゛
 ---
+{{ page.buttons | jsonify }}

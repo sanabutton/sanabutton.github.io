@@ -151,3 +151,4 @@ buttons:
     - file-name: 一般人なのにリアル世界のイベントでチョコを配ることになった女の子の配信です。/うんち！！
       value: うんち！！
 ---
+{{ page.buttons | jsonify }}

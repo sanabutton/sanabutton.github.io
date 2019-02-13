@@ -63,3 +63,4 @@ buttons:
     - file-name: 〇〇〇になるやつ/電撃マオウ様ありがとうございます！
       value: 電撃マオウ様ありがとうございます！
 ---
+{{ page.buttons | jsonify }}

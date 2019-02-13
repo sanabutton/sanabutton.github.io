@@ -141,3 +141,4 @@ buttons:
     - file-name: コミケおつ～おえかき/やば～2
       value: やば～2
 ---
+{{ page.buttons | jsonify }}
