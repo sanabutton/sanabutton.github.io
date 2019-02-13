@@ -1,0 +1,20 @@
+.linktable {
+  table-layout: fixed;
+  width: 100%;
+
+  th {
+    background: #ffffee;
+    font-weight: bold;
+    color: #000000;
+  }
+
+  td {
+    text-align: center;
+    background: #ffffff;
+    font-weight: bold;
+  }
+
+  tr:nth-child(2n + 1) td {
+    background: #ffefff;
+  }
+}
