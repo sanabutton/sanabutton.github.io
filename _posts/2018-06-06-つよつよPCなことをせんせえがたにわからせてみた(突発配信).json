@@ -1,0 +1,348 @@
+---
+buttons:
+  - - file-name: つよつよPCチャレンジゲリラ/ふざけんじゃねえぞ
+      value: ふざけんじゃねえぞ
+    - file-name: つよつよPCチャレンジゲリラ/そう！
+      value: そう！
+    - file-name: つよつよPCチャレンジゲリラ/笑い声1
+      value: 笑い声1
+    - file-name: つよつよPCチャレンジゲリラ/poipoi
+      value: poipoi
+    - file-name: つよつよPCチャレンジゲリラ/ｶﾁｬｶﾁｬｶﾁｬｯﾀｰﾝ
+      value: ｶﾁｬｶﾁｬｶﾁｬｯﾀｰﾝ
+    - file-name: つよつよPCチャレンジゲリラ/しょうがねえな～
+      value: しょうがねえな～
+    - file-name: つよつよPCチャレンジゲリラ/あい～
+      value: あい～
+    - file-name: つよつよPCチャレンジゲリラ/うんうん
+      value: うんうん
+    - file-name: つよつよPCチャレンジゲリラ/ナチュラル語録
+      value: ナチュラル語録
+    - file-name: つよつよPCチャレンジゲリラ/何で語録って分かったんですか？
+      value: 何で語録って分かったんですか？
+    - file-name: つよつよPCチャレンジゲリラ/おほほほほほ
+      value: おほほほほほ
+    - file-name: つよつよPCチャレンジゲリラ/マ～？
+      value: マ～？
+    - file-name: つよつよPCチャレンジゲリラ/笑い声2
+      value: 笑い声2
+    - file-name: つよつよPCチャレンジゲリラ/17歳魔法少女
+      value: 17歳魔法少女
+    - file-name: つよつよPCチャレンジゲリラ/そこはそれ
+      value: そこはそれ
+    - file-name: つよつよPCチャレンジゲリラ/あいあい
+      value: あいあい
+    - file-name: つよつよPCチャレンジゲリラ/怖い怖い
+      value: 怖い怖い
+    - file-name: つよつよPCチャレンジゲリラ/そらそうよ
+      value: そらそうよ
+    - file-name: つよつよPCチャレンジゲリラ/後方彼氏サーナ君
+      value: 後方彼氏サーナ君
+    - file-name: つよつよPCチャレンジゲリラ/うんうん2
+      value: うんうん2
+  - - file-name: つよつよPCチャレンジゲリラ/うんうん3
+      value: うんうん3
+    - file-name: つよつよPCチャレンジゲリラ/逆ぅ！
+      value: 逆ぅ！
+    - file-name: つよつよPCチャレンジゲリラ/手取り足取り名取さな
+      value: 手取り足取り名取さな
+    - file-name: つよつよPCチャレンジゲリラ/泣かないで（笑）
+      value: 泣かないで（笑）
+    - file-name: つよつよPCチャレンジゲリラ/せんせえ「やめよっかなー」
+      value: せんせえ「やめよっかなー」
+    - file-name: つよつよPCチャレンジゲリラ/我が子～！
+      value: 我が子～！
+    - file-name: つよつよPCチャレンジゲリラ/嫌です
+      value: 嫌です
+    - file-name: つよつよPCチャレンジゲリラ/えーんえーんおいおいおい
+      value: えーんえーんおいおいおい
+    - file-name: つよつよPCチャレンジゲリラ/大変感謝しております
+      value: 大変感謝しております
+    - file-name: つよつよPCチャレンジゲリラ/えーんえーんおいおい
+      value: えーんえーんおいおい
+    - file-name: つよつよPCチャレンジゲリラ/今日声おかしくない？
+      value: 今日声おかしくない？
+    - file-name: つよつよPCチャレンジゲリラ/彼氏来とるやんけ
+      value: 彼氏来とるやんけ
+    - file-name: つよつよPCチャレンジゲリラ/さなちゃん彼氏持ち
+      value: さなちゃん彼氏持ち
+    - file-name: つよつよPCチャレンジゲリラ/サーナ君彼氏説
+      value: サーナ君彼氏説
+    - file-name: つよつよPCチャレンジゲリラ/石油王をご所望
+      value: 石油王をご所望
+    - file-name: つよつよPCチャレンジゲリラ/彼女面しないで
+      value: 彼女面しないで
+    - file-name: つよつよPCチャレンジゲリラ/後で婚姻届持っていきますね
+      value: 後で婚姻届持っていきますね
+    - file-name: つよつよPCチャレンジゲリラ/ノーパン
+      value: ノーパン
+    - file-name: つよつよPCチャレンジゲリラ/声帯サマーセール
+      value: 声帯サマーセール
+    - file-name: つよつよPCチャレンジゲリラ/小学生だからね
+      value: 小学生だからね
+  - - file-name: つよつよPCチャレンジゲリラ/ってね
+      value: ってね
+    - file-name: つよつよPCチャレンジゲリラ/さなちゃんのファン辞めます
+      value: さなちゃんのファン辞めます
+    - file-name: つよつよPCチャレンジゲリラ/媚びるな
+      value: 媚びるな
+    - file-name: つよつよPCチャレンジゲリラ/ちゃんと泣いて
+      value: ちゃんと泣いて
+    - file-name: つよつよPCチャレンジゲリラ/終身名誉小学6年生
+      value: 終身名誉小学6年生
+    - file-name: つよつよPCチャレンジゲリラ/ふんふん
+      value: ふんふん
+    - file-name: つよつよPCチャレンジゲリラ/ふんふん2
+      value: ふんふん2
+    - file-name: つよつよPCチャレンジゲリラ/プリパラを全部見ろ
+      value: プリパラを全部見ろ
+    - file-name: つよつよPCチャレンジゲリラ/プリパラは義務
+      value: プリパラは義務
+    - file-name: つよつよPCチャレンジゲリラ/だってよ、みんな
+      value: だってよ、みんな
+    - file-name: つよつよPCチャレンジゲリラ/Congratulation!
+      value: Congratulation!
+    - file-name: つよつよPCチャレンジゲリラ/石油王のバイト
+      value: 石油王のバイト
+    - file-name: つよつよPCチャレンジゲリラ/あったけえ
+      value: あったけえ
+    - file-name: つよつよPCチャレンジゲリラ/穏やかでない
+      value: 穏やかでない
+    - file-name: つよつよPCチャレンジゲリラ/〇すぞ
+      value: 〇すぞ
+    - file-name: つよつよPCチャレンジゲリラ/全力謝罪スタイル
+      value: 全力謝罪スタイル
+    - file-name: つよつよPCチャレンジゲリラ/ころころころがしちゃうぞ
+      value: ころころころがしちゃうぞ
+    - file-name: つよつよPCチャレンジゲリラ/ころころころがしちゃうぞ2
+      value: ころころころがしちゃうぞ2
+    - file-name: つよつよPCチャレンジゲリラ/すまんすまーん
+      value: すまんすまーん
+    - file-name: つよつよPCチャレンジゲリラ/そのための包丁
+      value: そのための包丁
+  - - file-name: つよつよPCチャレンジゲリラ/まだバーチャルやらせて
+      value: まだバーチャルやらせて
+    - file-name: つよつよPCチャレンジゲリラ/おめでとうございます
+      value: おめでとうございます
+    - file-name: つよつよPCチャレンジゲリラ/名取はいいヤツだったよ…
+      value: 名取はいいヤツだったよ…
+    - file-name: つよつよPCチャレンジゲリラ/悪いインターネット
+      value: 悪いインターネット
+    - file-name: つよつよPCチャレンジゲリラ/頑張ろうね
+      value: 頑張ろうね
+    - file-name: つよつよPCチャレンジゲリラ/名取さな同人誌（全部盛り）
+      value: 名取さな同人誌（全部盛り）
+    - file-name: つよつよPCチャレンジゲリラ/欲しがり過ぎぃ！
+      value: 欲しがり過ぎぃ！
+    - file-name: つよつよPCチャレンジゲリラ/薄い本が厚くなるな
+      value: 薄い本が厚くなるな
+    - file-name: つよつよPCチャレンジゲリラ/笑い声3
+      value: 笑い声3
+    - file-name: つよつよPCチャレンジゲリラ/コミケ乞食
+      value: コミケ乞食
+    - file-name: つよつよPCチャレンジゲリラ/エッチなやつは
+      value: エッチなやつは
+    - file-name: つよつよPCチャレンジゲリラ/モノマネの本人登場
+      value: モノマネの本人登場
+    - file-name: つよつよPCチャレンジゲリラ/原稿落とすな！
+      value: 原稿落とすな！
+    - file-name: つよつよPCチャレンジゲリラ/原稿落としちゃおっかなー
+      value: 原稿落としちゃおっかなー
+    - file-name: つよつよPCチャレンジゲリラ/つぎつぎ
+      value: つぎつぎ
+    - file-name: つよつよPCチャレンジゲリラ/5分を経験した者
+      value: 5分を経験した者
+    - file-name: つよつよPCチャレンジゲリラ/おめでとーおめでとーおめでとー！
+      value: おめでとーおめでとーおめでとー！
+    - file-name: つよつよPCチャレンジゲリラ/はい次
+      value: はい次
+    - file-name: つよつよPCチャレンジゲリラ/私は重くないから
+      value: 私は重くないから
+    - file-name: つよつよPCチャレンジゲリラ/まずいですよ！
+      value: まずいですよ！
+  - - file-name: つよつよPCチャレンジゲリラ/つよつよPCイキリマウント
+      value: つよつよPCイキリマウント
+    - file-name: つよつよPCチャレンジゲリラ/ふんふん3
+      value: ふんふん3
+    - file-name: つよつよPCチャレンジゲリラ/ふんふん4
+      value: ふんふん4
+    - file-name: つよつよPCチャレンジゲリラ/ふんふん5
+      value: ふんふん5
+    - file-name: つよつよPCチャレンジゲリラ/3万円で引けると思ってんの
+      value: 3万円で引けると思ってんの
+    - file-name: つよつよPCチャレンジゲリラ/宝具レベルが5になるよ
+      value: 宝具レベルが5になるよ
+    - file-name: つよつよPCチャレンジゲリラ/よう雨も降っとる
+      value: よう雨も降っとる
+    - file-name: つよつよPCチャレンジゲリラ/ガチャ煽りはほんとだめ
+      value: ガチャ煽りはほんとだめ
+    - file-name: つよつよPCチャレンジゲリラ/ブです
+      value: ブです
+    - file-name: つよつよPCチャレンジゲリラ/名取の歌歌いたい
+      value: 名取の歌歌いたい
+    - file-name: つよつよPCチャレンジゲリラ/さなのおうた。
+      value: さなのおうた。
+    - file-name: つよつよPCチャレンジゲリラ/泣かないでフライング
+      value: 泣かないでフライング
+    - file-name: つよつよPCチャレンジゲリラ/拗ねないで
+      value: 拗ねないで
+    - file-name: つよつよPCチャレンジゲリラ/生きて
+      value: 生きて
+    - file-name: つよつよPCチャレンジゲリラ/（舌打ち）
+      value: （舌打ち）
+    - file-name: つよつよPCチャレンジゲリラ/マカ〇ィー「もうウイルス除去やめよっかな」
+      value: マカ〇ィー「もうウイルス除去やめよっかな」
+    - file-name: つよつよPCチャレンジゲリラ/なるほどね
+      value: なるほどね
+    - file-name: つよつよPCチャレンジゲリラ/相性悪かった
+      value: 相性悪かった
+    - file-name: つよつよPCチャレンジゲリラ/ノートンせんせえに媚びを売る
+      value: ノートンせんせえに媚びを売る
+    - file-name: つよつよPCチャレンジゲリラ/マ～？2
+      value: マ～？2
+  - - file-name: つよつよPCチャレンジゲリラ/横向くんだよ
+      value: 横向くんだよ
+    - file-name: つよつよPCチャレンジゲリラ/ふんふん6
+      value: ふんふん6
+    - file-name: つよつよPCチャレンジゲリラ/うんうん4
+      value: うんうん4
+    - file-name: つよつよPCチャレンジゲリラ/ふんふん7
+      value: ふんふん7
+    - file-name: つよつよPCチャレンジゲリラ/ロリババア
+      value: ロリババア
+    - file-name: つよつよPCチャレンジゲリラ/のじゃのじゃ
+      value: のじゃのじゃ
+    - file-name: つよつよPCチャレンジゲリラ/すこですよ
+      value: すこですよ
+    - file-name: つよつよPCチャレンジゲリラ/プリパラ全部見終わってるせんせえ素晴らしい
+      value: プリパラ全部見終わってるせんせえ素晴らしい
+    - file-name: つよつよPCチャレンジゲリラ/日本語力上げてけ
+      value: 日本語力上げてけ
+    - file-name: つよつよPCチャレンジゲリラ/つい消滅
+      value: つい消滅
+    - file-name: つよつよPCチャレンジゲリラ/みんな～
+      value: みんな～
+    - file-name: つよつよPCチャレンジゲリラ/そうだよ（便乗）
+      value: そうだよ（便乗）
+    - file-name: つよつよPCチャレンジゲリラ/ばか！ばか！
+      value: ばか！ばか！
+    - file-name: つよつよPCチャレンジゲリラ/うんうん5
+      value: うんうん5
+    - file-name: つよつよPCチャレンジゲリラ/マ～？3
+      value: マ～？3
+    - file-name: つよつよPCチャレンジゲリラ/辛辣ぅ！
+      value: 辛辣ぅ！
+    - file-name: つよつよPCチャレンジゲリラ/札に頼るな
+      value: 札に頼るな
+    - file-name: つよつよPCチャレンジゲリラ/マネーでファイトしろ
+      value: マネーでファイトしろ
+    - file-name: つよつよPCチャレンジゲリラ/（舌打ち）2
+      value: （舌打ち）2
+    - file-name: つよつよPCチャレンジゲリラ/体型イジりはNG
+      value: 体型イジりはNG
+  - - file-name: つよつよPCチャレンジゲリラ/ダイエットしろ
+      value: ダイエットしろ
+    - file-name: つよつよPCチャレンジゲリラ/ツイのまな板
+      value: ツイのまな板
+    - file-name: つよつよPCチャレンジゲリラ/生きて2
+      value: 生きて2
+    - file-name: つよつよPCチャレンジゲリラ/ふんふん8
+      value: ふんふん8
+    - file-name: つよつよPCチャレンジゲリラ/ふんふんふんふん
+      value: ふんふんふんふん
+    - file-name: つよつよPCチャレンジゲリラ/いらっしゃいませ～
+      value: いらっしゃいませ～
+    - file-name: つよつよPCチャレンジゲリラ/ふんふん9
+      value: ふんふん9
+    - file-name: つよつよPCチャレンジゲリラ/サーナ君の中身
+      value: サーナ君の中身
+    - file-name: つよつよPCチャレンジゲリラ/メイキングドラマスイッチオン
+      value: メイキングドラマスイッチオン
+    - file-name: つよつよPCチャレンジゲリラ/マジカル包丁
+      value: マジカル包丁
+    - file-name: つよつよPCチャレンジゲリラ/サーナ君開封動画
+      value: サーナ君開封動画
+    - file-name: つよつよPCチャレンジゲリラ/冷蔵庫に入る動画
+      value: 冷蔵庫に入る動画
+    - file-name: つよつよPCチャレンジゲリラ/マジカルステッキ（包丁）
+      value: マジカルステッキ（包丁）
+    - file-name: つよつよPCチャレンジゲリラ/ふんふん10
+      value: ふんふん10
+    - file-name: つよつよPCチャレンジゲリラ/ふんふんふんふん2
+      value: ふんふんふんふん2
+    - file-name: つよつよPCチャレンジゲリラ/中に誰もいませんよ
+      value: 中に誰もいませんよ
+    - file-name: つよつよPCチャレンジゲリラ/うるっせーなー
+      value: うるっせーなー
+    - file-name: つよつよPCチャレンジゲリラ/うんうん6
+      value: うんうん6
+    - file-name: つよつよPCチャレンジゲリラ/わかんないけど、次！
+      value: わかんないけど、次！
+    - file-name: つよつよPCチャレンジゲリラ/マジカルバナナ
+      value: マジカルバナナ
+  - - file-name: つよつよPCチャレンジゲリラ/今の人マジカルバナナ知らない
+      value: 今の人マジカルバナナ知らない
+    - file-name: つよつよPCチャレンジゲリラ/高速詠唱
+      value: 高速詠唱
+    - file-name: つよつよPCチャレンジゲリラ/知識がないことは恥ですよ
+      value: 知識がないことは恥ですよ
+    - file-name: つよつよPCチャレンジゲリラ/バカヤロー×3
+      value: バカヤロー×3
+    - file-name: つよつよPCチャレンジゲリラ/うるせーなー
+      value: うるせーなー
+    - file-name: つよつよPCチャレンジゲリラ/うんうん7
+      value: うんうん7
+    - file-name: つよつよPCチャレンジゲリラ/うんうん8
+      value: うんうん8
+    - file-name: つよつよPCチャレンジゲリラ/ふんふんふんふん3
+      value: ふんふんふんふん3
+    - file-name: つよつよPCチャレンジゲリラ/そりそりそり
+      value: そりそりそり
+    - file-name: つよつよPCチャレンジゲリラ/魔剤？
+      value: 魔剤？
+    - file-name: つよつよPCチャレンジゲリラ/鼓膜破れたんじゃない？
+      value: 鼓膜破れたんじゃない？
+    - file-name: つよつよPCチャレンジゲリラ/溺れるイリヤ
+      value: 溺れるイリヤ
+    - file-name: つよつよPCチャレンジゲリラ/みさえ
+      value: みさえ
+    - file-name: つよつよPCチャレンジゲリラ/笑い声4
+      value: 笑い声4
+    - file-name: つよつよPCチャレンジゲリラ/溺れるでんぼ
+      value: 溺れるでんぼ
+    - file-name: つよつよPCチャレンジゲリラ/こんなのVTuberじゃない
+      value: こんなのVTuberじゃない
+    - file-name: つよつよPCチャレンジゲリラ/笑い声5
+      value: 笑い声5
+    - file-name: つよつよPCチャレンジゲリラ/笑い声6
+      value: 笑い声6
+    - file-name: つよつよPCチャレンジゲリラ/ねえねえ
+      value: ねえねえ
+    - file-name: つよつよPCチャレンジゲリラ/ふんふんふんふん4
+      value: ふんふんふんふん4
+  - - file-name: つよつよPCチャレンジゲリラ/ふんふんふんふん5
+      value: ふんふんふんふん5
+    - file-name: つよつよPCチャレンジゲリラ/かっすかす 物真似無茶振り 名取さな
+      value: かっすかす 物真似無茶振り 名取さな
+    - file-name: つよつよPCチャレンジゲリラ/マ～？4
+      value: マ～？4
+    - file-name: つよつよPCチャレンジゲリラ/やったぜ。
+      value: やったぜ。
+    - file-name: つよつよPCチャレンジゲリラ/クソコメを 全力で拾う 名取さな
+      value: クソコメを 全力で拾う 名取さな
+    - file-name: つよつよPCチャレンジゲリラ/日記帳 実質せんせえの 自由帳
+      value: 日記帳 実質せんせえの 自由帳
+    - file-name: つよつよPCチャレンジゲリラ/やべえ
+      value: やべえ
+    - file-name: つよつよPCチャレンジゲリラ/気持ちよくなる名取様
+      value: 気持ちよくなる名取様
+    - file-name: つよつよPCチャレンジゲリラ/ふんふん11
+      value: ふんふん11
+    - file-name: つよつよPCチャレンジゲリラ/もうやめよっかなキャンセル
+      value: もうやめよっかなキャンセル
+    - file-name: つよつよPCチャレンジゲリラ/早く締めろ
+      value: 早く締めろ
+    - file-name: つよつよPCチャレンジゲリラ/今日もお疲れ様でした
+      value: 今日もお疲れ様でした
+---
+{{ page.buttons | jsonify }}

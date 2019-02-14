@@ -1,0 +1,186 @@
+---
+buttons:
+  - - file-name: まだ8月だぞ喋ろうぜ！/ぅぁ
+      value: ぅぁ
+    - file-name: まだ8月だぞ喋ろうぜ！/名取さなうるさい
+      value: 名取さなうるさい
+    - file-name: まだ8月だぞ喋ろうぜ！/ぉぃぃ～
+      value: ぉぃぃ～
+    - file-name: まだ8月だぞ喋ろうぜ！/元気～？
+      value: 元気～？
+    - file-name: まだ8月だぞ喋ろうぜ！/名取笑うとこ見せて
+      value: 名取笑うとこ見せて
+    - file-name: まだ8月だぞ喋ろうぜ！/もっとでっかく？
+      value: もっとでっかく？
+    - file-name: まだ8月だぞ喋ろうぜ！/もっともっと！？
+      value: もっともっと！？
+    - file-name: まだ8月だぞ喋ろうぜ！/おけおけ
+      value: おけおけ
+    - file-name: まだ8月だぞ喋ろうぜ！/どうもな
+      value: どうもな
+    - file-name: まだ8月だぞ喋ろうぜ！/ツツイのツツイのツイのツイ
+      value: ツツイのツツイのツイのツイ
+    - file-name: まだ8月だぞ喋ろうぜ！/よいしょ詰め合わせ
+      value: よいしょ詰め合わせ
+    - file-name: まだ8月だぞ喋ろうぜ！/（笑顔）
+      value: （笑顔）
+    - file-name: まだ8月だぞ喋ろうぜ！/素直じゃん
+      value: 素直じゃん
+    - file-name: まだ8月だぞ喋ろうぜ！/ふんふん
+      value: ふんふん
+    - file-name: まだ8月だぞ喋ろうぜ！/強い言葉
+      value: 強い言葉
+    - file-name: まだ8月だぞ喋ろうぜ！/豊かじゃん
+      value: 豊かじゃん
+    - file-name: まだ8月だぞ喋ろうぜ！/いいゾ～
+      value: いいゾ～
+    - file-name: まだ8月だぞ喋ろうぜ！/イキりナース
+      value: イキりナース
+    - file-name: まだ8月だぞ喋ろうぜ！/顔が良い
+      value: 顔が良い
+    - file-name: まだ8月だぞ喋ろうぜ！/気づいてしまいましたか
+      value: 気づいてしまいましたか
+  - - file-name: まだ8月だぞ喋ろうぜ！/さなを甘やかすな
+      value: さなを甘やかすな
+    - file-name: まだ8月だぞ喋ろうぜ！/分かるんだよなあ
+      value: 分かるんだよなあ
+    - file-name: まだ8月だぞ喋ろうぜ！/塗り壁
+      value: 塗り壁
+    - file-name: まだ8月だぞ喋ろうぜ！/言わせんなよ！
+      value: 言わせんなよ！
+    - file-name: まだ8月だぞ喋ろうぜ！/商売上手
+      value: 商売上手
+    - file-name: まだ8月だぞ喋ろうぜ！/こじつけが過ぎる
+      value: こじつけが過ぎる
+    - file-name: まだ8月だぞ喋ろうぜ！/関連性を見出していけ
+      value: 関連性を見出していけ
+    - file-name: まだ8月だぞ喋ろうぜ！/いいぞいいぞ～天才だ！
+      value: いいぞいいぞ～天才だ！
+    - file-name: まだ8月だぞ喋ろうぜ！/笑い声
+      value: 笑い声
+    - file-name: まだ8月だぞ喋ろうぜ！/嘘つきがよ～！
+      value: 嘘つきがよ～！
+    - file-name: まだ8月だぞ喋ろうぜ！/インターネットに騙される女
+      value: インターネットに騙される女
+    - file-name: まだ8月だぞ喋ろうぜ！/810円
+      value: 810円
+    - file-name: まだ8月だぞ喋ろうぜ！/どこ住み？
+      value: どこ住み？
+    - file-name: まだ8月だぞ喋ろうぜ！/FaceRigでSiriが反応する？
+      value: FaceRigでSiriが反応する？
+    - file-name: まだ8月だぞ喋ろうぜ！/ふぇいすりぐ！
+      value: ふぇいすりぐ！
+    - file-name: まだ8月だぞ喋ろうぜ！/Siriにシカトされる者おる？
+      value: Siriにシカトされる者おる？
+    - file-name: まだ8月だぞ喋ろうぜ！/嘘じゃない
+      value: 嘘じゃない
+    - file-name: まだ8月だぞ喋ろうぜ！/なんで！？
+      value: なんで！？
+    - file-name: まだ8月だぞ喋ろうぜ！/Hey Siri!
+      value: Hey Siri!
+    - file-name: まだ8月だぞ喋ろうぜ！/嘘松
+      value: 嘘松
+  - - file-name: まだ8月だぞ喋ろうぜ！/Siri死す
+      value: Siri死す
+    - file-name: まだ8月だぞ喋ろうぜ！/Hey Siri!!
+      value: Hey Siri!!
+    - file-name: まだ8月だぞ喋ろうぜ！/(Hey Siri)
+      value: (Hey Siri)
+    - file-name: まだ8月だぞ喋ろうぜ！/こんなことってある？
+      value: こんなことってある？
+    - file-name: まだ8月だぞ喋ろうぜ！/つれぇよ
+      value: つれぇよ
+    - file-name: まだ8月だぞ喋ろうぜ！/尻
+      value: 尻
+    - file-name: まだ8月だぞ喋ろうぜ！/Hey Siri（いつもの声）
+      value: Hey Siri（いつもの声）
+    - file-name: まだ8月だぞ喋ろうぜ！/反応するんかい
+      value: 反応するんかい
+    - file-name: まだ8月だぞ喋ろうぜ！/全国のSiriを動かす女
+      value: 全国のSiriを動かす女
+    - file-name: まだ8月だぞ喋ろうぜ！/行くぞ行くぞ
+      value: 行くぞ行くぞ
+    - file-name: まだ8月だぞ喋ろうぜ！/Hey Siri!2
+      value: Hey Siri!2
+    - file-name: まだ8月だぞ喋ろうぜ！/OK Google
+      value: OK Google
+    - file-name: まだ8月だぞ喋ろうぜ！/Hey Siri~
+      value: Hey Siri~
+    - file-name: まだ8月だぞ喋ろうぜ！/おっけーぐーぐるー
+      value: おっけーぐーぐるー
+    - file-name: まだ8月だぞ喋ろうぜ！/おっけーせんせえー
+      value: おっけーせんせえー
+    - file-name: まだ8月だぞ喋ろうぜ！/Alexaせんせえ起動せよ
+      value: Alexaせんせえ起動せよ
+    - file-name: まだ8月だぞ喋ろうぜ！/おいAlexa
+      value: おいAlexa
+    - file-name: まだ8月だぞ喋ろうぜ！/バーサーカーを呼ぶ女
+      value: バーサーカーを呼ぶ女
+    - file-name: まだ8月だぞ喋ろうぜ！/Alexa部屋の電気消したれや
+      value: Alexa部屋の電気消したれや
+    - file-name: まだ8月だぞ喋ろうぜ！/Alexaにピザ注文させる女
+      value: Alexaにピザ注文させる女
+  - - file-name: まだ8月だぞ喋ろうぜ！/Alexaにマオウ注文させる女
+      value: Alexaにマオウ注文させる女
+    - file-name: まだ8月だぞ喋ろうぜ！/Alexaピザの注文やっぱ無しで
+      value: Alexaピザの注文やっぱ無しで
+    - file-name: まだ8月だぞ喋ろうぜ！/こらー！
+      value: こらー！
+    - file-name: まだ8月だぞ喋ろうぜ！/これがインターネット
+      value: これがインターネット
+    - file-name: まだ8月だぞ喋ろうぜ！/これがバーチャルだ
+      value: これがバーチャルだ
+    - file-name: まだ8月だぞ喋ろうぜ！/テロしません
+      value: テロしません
+    - file-name: まだ8月だぞ喋ろうぜ！/喧嘩両成敗
+      value: 喧嘩両成敗
+    - file-name: まだ8月だぞ喋ろうぜ！/CAPTURED EMURATED
+      value: CAPTURED EMURATED
+    - file-name: まだ8月だぞ喋ろうぜ！/サイクロップス先輩
+      value: サイクロップス先輩
+    - file-name: まだ8月だぞ喋ろうぜ！/ムーブが彼氏
+      value: ムーブが彼氏
+    - file-name: まだ8月だぞ喋ろうぜ！/俺の股間の
+      value: 俺の股間の
+    - file-name: まだ8月だぞ喋ろうぜ！/シュレディンガーの野獣先輩
+      value: シュレディンガーの野獣先輩
+    - file-name: まだ8月だぞ喋ろうぜ！/名取今何時ー？
+      value: 名取今何時ー？
+    - file-name: まだ8月だぞ喋ろうぜ！/名取醤油取って
+      value: 名取醤油取って
+    - file-name: まだ8月だぞ喋ろうぜ！/スマート名取
+      value: スマート名取
+    - file-name: まだ8月だぞ喋ろうぜ！/おじゃる丸AI名取さな
+      value: おじゃる丸AI名取さな
+    - file-name: まだ8月だぞ喋ろうぜ！/名取トイレットペーパー取ってきて
+      value: 名取トイレットペーパー取ってきて
+    - file-name: まだ8月だぞ喋ろうぜ！/紙ヤスリ渡せ
+      value: 紙ヤスリ渡せ
+    - file-name: まだ8月だぞ喋ろうぜ！/24歳、学生です
+      value: 24歳、学生です
+    - file-name: まだ8月だぞ喋ろうぜ！/10代～20代、もしくは30代～40代
+      value: 10代～20代、もしくは30代～40代
+  - - file-name: まだ8月だぞ喋ろうぜ！/俺は強い
+      value: 俺は強い
+    - file-name: まだ8月だぞ喋ろうぜ！/花京院
+      value: 花京院
+    - file-name: まだ8月だぞ喋ろうぜ！/惚れてしまうやろ
+      value: 惚れてしまうやろ
+    - file-name: まだ8月だぞ喋ろうぜ！/可愛いだろ？
+      value: 可愛いだろ？
+    - file-name: まだ8月だぞ喋ろうぜ！/顔が良いことには自信ある
+      value: 顔が良いことには自信ある
+    - file-name: まだ8月だぞ喋ろうぜ！/見とけ～
+      value: 見とけ～
+    - file-name: まだ8月だぞ喋ろうぜ！/可愛いだろ～？
+      value: 可愛いだろ～？
+    - file-name: まだ8月だぞ喋ろうぜ！/もっと言ってくれ
+      value: もっと言ってくれ
+    - file-name: まだ8月だぞ喋ろうぜ！/おかわり！
+      value: おかわり！
+    - file-name: まだ8月だぞ喋ろうぜ！/PON
+      value: PON
+    - file-name: まだ8月だぞ喋ろうぜ！/ざくっ
+      value: ざくっ
+---
+{{ page.buttons | jsonify }}

@@ -1,25 +1,39 @@
 # project commons
+## dotfiles
 .gitkeep
 .*rc
 .*ignore
 .editorconfig
 
+## GitHub
 LICENSE
 CNAME
 
+## Ruby
 Gemfile
+vendor/
+.bundle/
 
+## Jekyll
+.cache/
+_site/
+
+## CI / CD
 renovate.json
 
 ## IntelliJ
-.idea
+.idea/
 
 ## common lock file
 *.lock
 
 # project specifics
-## api has JSON with Front Matter
+## static api responses
 api/
+### minimatch bug; ファイル名にマルチバイト文字が含まれると、ディレクトリ名で ignore していても対象に入ってしまう
+#_posts/
+*.json
+!_data/
 
 # we wanna write HTML freedom
 *.html
@@ -33,5 +47,3 @@ api/
 *.xml
 ## PlantUML
 *.puml
-## SASS
-*.sass

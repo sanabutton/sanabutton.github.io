@@ -1,0 +1,66 @@
+---
+buttons:
+  - - file-name: 〇〇〇になるやつ/事故るかもしれない
+      value: 事故るかもしれない
+    - file-name: 〇〇〇になるやつ/ジ〇リなわけねえだろうが
+      value: ジ〇リなわけねえだろうが
+    - file-name: 〇〇〇になるやつ/海賊王になります？
+      value: 海賊王になります？
+    - file-name: 〇〇〇になるやつ/緊張感あるよ
+      value: 緊張感あるよ
+    - file-name: 〇〇〇になるやつ/もうだめだここ
+      value: もうだめだここ
+    - file-name: 〇〇〇になるやつ/ヒラタ化
+      value: ヒラタ化
+    - file-name: 〇〇〇になるやつ/ふんふん1
+      value: ふんふん1
+    - file-name: 〇〇〇になるやつ/ふんふん2
+      value: ふんふん2
+    - file-name: 〇〇〇になるやつ/どっこいしょ
+      value: どっこいしょ
+    - file-name: 〇〇〇になるやつ/そろそろいいか？
+      value: そろそろいいか？
+    - file-name: 〇〇〇になるやつ/見えてる！？
+      value: 見えてる！？
+    - file-name: 〇〇〇になるやつ/見えてる？
+      value: 見えてる？
+    - file-name: 〇〇〇になるやつ/はい、どうぞ！
+      value: はい、どうぞ！
+    - file-name: 〇〇〇になるやつ/どどーん！
+      value: どどーん！
+    - file-name: 〇〇〇になるやつ/電撃マオウに名取の小冊子！
+      value: 電撃マオウに名取の小冊子！
+    - file-name: 〇〇〇になるやつ/だーれだ？
+      value: だーれだ？
+  - - file-name: 〇〇〇になるやつ/やっぴ～！
+      value: やっぴ～！
+    - file-name: 〇〇〇になるやつ/ででん！
+      value: ででん！
+    - file-name: 〇〇〇になるやつ/なあ！？
+      value: なあ！？
+    - file-name: 〇〇〇になるやつ/媚び売り名取
+      value: 媚び売り名取
+    - file-name: 〇〇〇になるやつ/ってね
+      value: ってね
+    - file-name: 〇〇〇になるやつ/あれ！？
+      value: あれ！？
+    - file-name: 〇〇〇になるやつ/頼みますね1
+      value: 頼みますね1
+    - file-name: 〇〇〇になるやつ/頼みますね2
+      value: 頼みますね2
+    - file-name: 〇〇〇になるやつ/（咳ごみ）
+      value: （咳ごみ）
+    - file-name: 〇〇〇になるやつ/電撃マオウ告知（Take1）
+      value: 電撃マオウ告知（Take1）
+    - file-name: 〇〇〇になるやつ/もう一回やり直さしてくれ！
+      value: もう一回やり直さしてくれ！
+    - file-name: 〇〇〇になるやつ/電撃マオウ告知（Take2）
+      value: 電撃マオウ告知（Take2）
+    - file-name: 〇〇〇になるやつ/や～めぴ！
+      value: や～めぴ！
+    - file-name: 〇〇〇になるやつ/電撃マオウ、9月27日発売です！
+      value: 電撃マオウ、9月27日発売です！
+    - file-name: 〇〇〇になるやつ/電撃マオウ様ありがとうございます！
+      value: 電撃マオウ様ありがとうございます！
+---
+{{ page.buttons | jsonify }}
