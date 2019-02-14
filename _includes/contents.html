@@ -1,1 +1,15 @@
-{% include contents/standard.html %}
+{% for post in site.posts reversed %}
+<hr style="margin: 1em 0 ;">
+　　<b>{{ post.slug }}</b>
+
+{%- for button_sections in post.buttons %}
+<br>
+{%- comment %}
+- 直後の for 文は、生成される HTML コードの改行とかの都合で、あえてトリムしない制御構文にしている
+- このコメントブロックを、「ブロック終端の後ろをトリムする制御構文」で書くことで、直後の for 文の行の先頭のインデントをトリムするハックをしている（ endcomment "-%}" の部分のこと）
+{%- endcomment -%}
+{% for button in button_sections %}
+<button type="button" class="sounds" data-file="{{ button.file-name }}">{{ button.value }}</button>
+{%- endfor %}
+{%- endfor %}
+{% endfor %}
