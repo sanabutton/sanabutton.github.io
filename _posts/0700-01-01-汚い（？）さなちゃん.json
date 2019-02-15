@@ -1,0 +1,82 @@
+---
+buttons:
+  - - file-name: やくざ/おまえいいかげんにしろよ
+      value: お前いい加減に
+    - file-name: せんせえとないしょばなし/おい、戦争だろうが
+      value: おい、戦争だろうが
+    - file-name: せんせえとないしょばなし/辞世の句がこない
+      value: 辞世の句がこない
+    - file-name: せんせえとないしょばなし/低評価したやつわかってんだろうな
+      value: 低評価したやつわかってんだろうな
+    - file-name: せんせえとないしょばなし/名前覚えたからな？
+      value: 名前覚えたからな？
+    - file-name: せんせえとないしょばなし/名前覚えたからな01
+      value: 名前覚えたからな01
+    - file-name: GW振り返り配信/あっ
+      value: あっ
+    - file-name: GW振り返り配信/彼女出来ました
+      value: 彼女出来ました
+    - file-name: GW振り返り配信/やったぁ！
+      value: やったぁ！
+    - file-name: GW振り返り配信/近くにいるかも
+      value: 近くにいるかも
+    - file-name: GW振り返り配信/黒さな
+      value: 黒さな
+    - file-name: GW振り返り配信/謝罪
+      value: 謝罪
+    - file-name: GW振り返り配信/いつも静かな声
+      value: いつも静かな声
+    - file-name: GW振り返り配信/駄目だよ
+      value: 駄目
+    - file-name: GW振り返り配信/LIVE
+      value: .LIVE
+    - file-name: GW振り返り配信/はーーー
+      value: はーーー
+    - file-name: GW振り返り配信/ぶっ叩かれるがな
+      value: ぶっ叩かれるがな
+    - file-name: GW振り返り配信/フリック苦手とか
+      value: フリック苦手とか
+    - file-name: 看護の日…とは言ったものの/今日声綺麗？
+      value: 今日声綺麗？
+    - file-name: 看護の日…とは言ったものの/今日声綺麗？おまけ
+      value: 今日声綺麗？おまけ
+    - file-name: 看護の日…とは言ったものの/きいてねえんだよなぁ
+      value: きいてねえんだよなぁ
+    - file-name: 看護の日…とは言ったものの/メロンパン
+      value: メロンパン
+    - file-name: 看護の日…とは言ったものの/胸のサイズ
+      value: 胸のサイズ
+    - file-name: 看護の日…とは言ったものの/写真より胸
+      value: 写真より胸
+    - file-name: 看護の日…とは言ったものの/配信続けるかー
+      value: 配信続けるかー
+    - file-name: 看護の日…とは言ったものの/便所に置くわ
+      value: 便所に置くわ
+    - file-name: GW振り返り配信/マイク舐めて？
+      value: マイク舐めて？01
+    - file-name: 看護の日…とは言ったものの/マイク舐めて？02
+      value: マイク舐めて？02
+  - - file-name: GW振り返り配信/投げキッス
+      value: 投げキッス01
+    - file-name: 名取と共に地獄に叩き落される/投げキッス01
+      value: 投げキッス02
+    - file-name: 名取と共に地獄に叩き落される/投げキッス02
+      value: 投げキッス03
+    - file-name: 名取と共に地獄に叩き落される/投げキッス03
+      value: 投げキッス04
+    - file-name: 名取と共に地獄に叩き落される/マイク舐めて？01
+      value: マイク舐めて？03
+    - file-name: 名取と共に地獄に叩き落される/黒い砂漠
+      value: 黒い砂漠
+  - - file-name: 美術館/投げキッス01
+      value: 投げキッス05
+    - file-name: 美術館/タケノコ派はサイコパス
+      value: タケノコ派はサイコパス
+    - file-name: 美術館/幻覚見てるの？
+      value: 幻覚見てるの？
+    - file-name: 美術館/嘆きの壁
+      value: 嘆きの壁
+    - file-name: 美術館/敗北を知りたい
+      value: 敗北を知りたい
+---
+{{ page.buttons | jsonify }}

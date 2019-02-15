@@ -1,0 +1,108 @@
+---
+buttons:
+  - - file-name: GW振り返り配信/おうたー？
+      value: おうたー？
+    - file-name: おうた/ダンスロボットダンス
+      value: ダンスロボットダンス
+    - file-name: おうた/ハリーポッター
+      value: ハリーポッター
+    - file-name: おうた/コンギ
+      value: コンギョ
+    - file-name: せんせえとないしょばなし/コンギョ全部覚えてたらこわいだろ
+      value: コンギョおまけ01
+    - file-name: 看護の日…とは言ったものの/コンギョおまけ02
+      value: コンギョおまけ02
+    - file-name: GW振り返り配信/深海少女
+      value: 深海少女
+    - file-name: GW振り返り配信/深海少女サビ
+      value: 深海少女サビ
+    - file-name: GW振り返り配信/ポニョ
+      value: ポニョ
+    - file-name: GW振り返り配信/ポニョおまけ
+      value: ポニョおまけ
+  - - file-name: GW振り返り配信/子守歌
+      value: 子守歌
+    - file-name: GW振り返り配信/鼻歌
+      value: 鼻歌
+    - file-name: 看護の日…とは言ったものの/アイアイ
+      value: アイアイ
+    - file-name: 看護の日…とは言ったものの/アメイジング・キャッスル
+      value: アメイジング・キャッスル
+    - file-name: 看護の日…とは言ったものの/小夜子
+      value: 小夜子
+    - file-name: 看護の日…とは言ったものの/小夜子サビ
+      value: 小夜子サビ
+    - file-name: 看護の日…とは言ったものの/One more time,One more chance
+      value: One more time,One more chance
+    - file-name: ゲリラ/HappyBirthday
+      value: HappyBirthday
+    - file-name: 名取と共に地獄に叩き落される/トライアングラー
+      value: トライアングラー
+    - file-name: 名取と共に地獄に叩き落される/いっぱい食べる君が好き
+      value: いっぱい食べる君が好き
+    - file-name: 6万人記念でホラゲ/アンパンマンマーチ
+      value: アンパンマンマーチ
+    - file-name: 6万人記念でホラゲ/とっとこオペラ太郎
+      value: とっとこハム太郎
+    - file-name: 6万人記念でホラゲ/キチレコ
+      value: キチレコ
+  - - file-name: 美術館/fancy baby doll
+      value: fancy baby doll
+    - file-name: 美術館/コンギョ01
+      value: コンギョ03
+    - file-name: 美術館/シュガーレス×フレンド
+      value: シュガーレス×フレンド
+    - file-name: 美術館/ファルル
+      value: ファルル
+    - file-name: 美術館/メニメニマニマニ
+      value: メニメニマニマニ
+    - file-name: バイノーラルテスト配信/むんむんむぴっぴ
+      value: むんむんむぴっぴ
+    - file-name: バイノーラルテスト配信/スペースコブラ
+      value: スペースコブラ
+    - file-name: バイノーラルテスト配信/バイノーラルハッピーバースデー
+      value: バイノーラルハッピーバースデー
+    - file-name: せんせえがバーチャルさんを見ている時バーチャルさんもまた以下略/おもちゃの兵隊の行進曲
+      value: 3分クッキング
+  - - file-name: GW振り返り配信/ヌォンタートの由来
+      value: ヌォンタートの由来
+    - file-name: GW振り返り配信/アンテいい作品だから
+      value: アンテいい作品だから
+    - file-name: 名取と共に地獄に叩き落される/チップチューンが好き
+      value: チップチューン
+    - file-name: ゲリラ/う〇ち
+      value: う〇ち
+    - file-name: ゲリラ/せんせえありがとう
+      value: せんせえ達ありがとう
+    - file-name: ゲリラ/せんせえありがとう take2
+      value: せんせえ達ありがとう take2
+    - file-name: 6万人記念でホラゲ/いつもありがとう
+      value: いつもありがとう
+    - file-name: ゲリラ/看取りさな
+      value: 看取りさな01
+    - file-name: 美術館/看取りさな02
+      value: 看取りさな02
+    - file-name: ゲリラ/ドエッチ
+      value: ドエッチ
+  - - file-name: 七夕/名取が用意したご飯
+      value: 名取が用意したご飯
+    - file-name: 七夕/名取のソーセージ
+      value: 名取のソーセージ
+    - file-name: 七夕/ごめーん…
+      value: ごめーん…
+    - file-name: 七夕/箸への感謝
+      value: 箸への感謝
+    - file-name: 七夕/はい、あーん
+      value: はい、あーん
+    - file-name: 七夕/まな板片づけて
+      value: まな板片づけて
+    - file-name: 七夕/しゅじゅん
+      value: しゅじゅん
+  - - file-name: 未定/古戦場逃げてええで
+      value: 古戦場逃げてええで
+    - file-name: 未定/古戦場逃げていいよ
+      value: 古戦場逃げていいよ
+    - file-name: 未定/古戦場そこそこに頑張ろうな
+      value: 古戦場そこそこに頑張ろうな
+---
+{{ page.buttons | jsonify }}
