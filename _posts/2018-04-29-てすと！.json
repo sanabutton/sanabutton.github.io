@@ -43,3 +43,4 @@ buttons:
     - file-name: てすと/きもおた02
       value: キモオタ02
 ---
+{{ page.buttons | jsonify }}
