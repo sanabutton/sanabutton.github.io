@@ -5,9 +5,8 @@
 ## Requirements
 
 - [Ruby 安定版](https://www.ruby-lang.org/ja/)
+- [Node.js 推奨版](https://nodejs.org/ja/)
 
 もしくは
 
 - [Docker CE stable](https://store.docker.com/search?q=&type=edition&offering=community)
-
-開発や運用に関する情報は、[wiki に書いてある](https://github.com/sanabutton/sanabutton.github.io/wiki)ので、そちらを見てください。
