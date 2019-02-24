@@ -1,6 +1,20 @@
-<span class="add-num"><br>
-  {%- for post in site.posts limit:5 -%}
-  <b>{{ post.last_modified_at | default: post.date | date: "%m/%d" }} <u>{{ post.slug }}のボイスを追加しました。</u></b>
-  <br>
-  {% endfor %}
-</span>
+<div class="create-log">
+  <h2>追加履歴</h2>
+  <ul>
+    {%- for post in site.posts reverse limit:5 -%}
+    <li><b>{{ post.date | date: "%Y/%m/%d" }} <u>{{ post.slug }}のボイスを追加しました。</u></b></li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="update-log">
+  <h2>更新履歴</h2>
+  <ul>
+    {%- assign sorted_by_modified = site.posts | sort:"last_modified_at" | reverse -%}
+    {%- for post in sorted_by_modified limit 5-%}
+    {%- if post.last_modified_at -%}
+    <li><b>{{ post.last_modified_at | date: "%Y/%m/%d" }} <u>{{ post.slug }}にボタンを追加しました。</u></b></li>
+    {%- endif -%}
+    {% endfor %}
+  </ul>
+</div>
