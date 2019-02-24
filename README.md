@@ -1,7 +1,5 @@
 # [www.natorisana.love](https://www.natorisana.love)
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/sanabutton/sanabutton.github.io.svg)](https://greenkeeper.io/)
-
 [初代さなボタン](http://sanabutton.ojaru.jp/)の更新が止まってしまったので、その後継サイト。
 
 ## Requirements
