@@ -1,5 +1,16 @@
-.add-num {
+@mixin modified-log {
   color: #808080;
+  ul {
+    list-style: none;
+  }
+}
+
+.create-log {
+  @include modified-log;
+}
+
+.update-log {
+  @include modified-log;
 }
 
 .important-notify {
