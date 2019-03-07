@@ -2,7 +2,7 @@
   <h2>追加履歴</h2>
   <ul>
     {%- for post in site.posts reverse limit:5 -%}
-    <li><b>{{ post.date | date: "%Y/%m/%d" }} <u>{{ post.slug }}のボイスを追加しました。</u></b></li>
+    <li><b>{{ post.date | date: "%Y/%m/%d" }} <u>『{{ post.slug }}』のボタンを追加しました。</u></b></li>
     {% endfor %}
   </ul>
 </div>
