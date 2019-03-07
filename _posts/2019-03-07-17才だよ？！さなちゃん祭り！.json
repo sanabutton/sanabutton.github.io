@@ -233,10 +233,8 @@ buttons:
       value: ヤンキーせんせえ歌う？
     - file-name: 17才だよ？！さなちゃん祭り！/好きな曲入れていい？
       value: 好きな曲入れていい？
-    - file-name: 17才だよ？！さなちゃん祭り！/staple
-      value: staple
-    - file-name: 17才だよ？！さなちゃん祭り！/stable
-      value: stable
+    - file-name: 17才だよ？！さなちゃん祭り！/staple stable
+      value: staple stable
     - file-name: 17才だよ？！さなちゃん祭り！/恥ずかしナース
       value: 恥ずかしナース
     - file-name: 17才だよ？！さなちゃん祭り！/お水飲みます2
