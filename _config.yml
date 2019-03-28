@@ -33,7 +33,6 @@ exclude:
 
 markdown: kramdown
 
-url: https://www.natorisana.love
 kramdown:
   input: GFM
 
@@ -43,20 +42,13 @@ theme:
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-avatar
-  - jemoji
-  - jekyll-mentions
 
 # Plugins Config
 ## common
 title: さなボタン(2)
-description: >
-  名取さなの声が再生されるボタン置き場
+description: >-
+  名取さなの声が再生されるボタン置き場。
 
 # jekyll-github-metadata
 repository: sanabutton/sanabutton.github.io
-
-jekyll-mentions:
-  base_url: https://twitter.com

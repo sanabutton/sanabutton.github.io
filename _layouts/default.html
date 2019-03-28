@@ -2,6 +2,23 @@
 
 <html lang="ja">
 <head>
+  <!-- most important -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="initial-scale=1">
+  <title>{{ site.title }}</title>
+  <meta name="description" content="{{ site.description | strip_newlines }}">
+
+  <!-- og;The Open Graph protocol -->
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:description" content="{{ site.description | strip_newlines }}">
+  <meta property="og:locale" content="ja_JP" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.natorisana.love">
+  <meta property="og:image" content="https://www.natorisana.love/images/thumbnail.png">
+  <!-- og:Twitter -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@sanabutton2" />
+
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125646809-1"></script>
   <script>
@@ -11,9 +28,7 @@
     gtag('config', 'UA-125646809-1');
   </script>
 
-  <meta charset="UTF-8">
-  <meta name="viewport" content="initial-scale=1">
-
+  <!-- favicon -->
   <meta name="msapplication-TileColor" content="#2d88ef">
   <meta name="msapplication-TileImage" content="/favicon/mstile-144x144.png">
   <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
@@ -64,8 +79,6 @@
   <!-- scripts -->
   <script async src="https://unpkg.com/smoothscroll-polyfill@0.4.3/dist/smoothscroll.min.js"></script>
   <script async src="https://platform.twitter.com/widgets.js"></script>
-
-  <title>さなボタン(2)</title>
 
 </head>
 <body>
