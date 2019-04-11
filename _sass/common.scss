@@ -1,3 +1,38 @@
+@charset "utf-8";
+// 画面上に固定のやつ
+.stop-button {
+  position: fixed;
+  font-weight: bold;
+  color: rgb(75, 75, 75);
+  top: 20px;
+  right: 15px;
+  padding: 10px 10px;
+  cursor: pointer;
+  border-radius: 20px;
+  background: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(rgb(255, 198, 198)),
+      to(#ffc4c4)
+  );
+
+  &:hover {
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+    opacity: 0.7;
+    text-shadow: none;
+  }
+}
+
+.go-to-article-index {
+  position: fixed;
+  top: 20px;
+  left: 15px;
+}
+
+// 更新ログ
 @mixin modified-log {
   color: #808080;
   ul {
@@ -22,7 +57,7 @@
   text-align: center;
 }
 
-// profile
+// プロフィール
 .profile-container {
   display: flex;
   flex-flow: row wrap;

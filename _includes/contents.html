@@ -1,6 +1,6 @@
 {% for post in site.posts reversed %}
 <hr style="margin: 1em 0 ;">
-　　<b>{{ post.slug }}</b>
+　　<span id="{{ post.id }}"><b>{{ post.slug }}</b></span>
 
 {%- for button_sections in post.buttons %}
 <br>
