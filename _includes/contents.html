@@ -1,8 +1,6 @@
 {% for post in site.posts reversed %}
 <hr style="margin: 1em 0 ;">
-{%- assign post_date = post.date | date: "%Y-%m-%d" -%}
-{%- assign html_title_id = post.stream_id | default: post_date -%}
-　　<span id="{{ html_title_id }}"><b>{{ post.slug }}</b></span>
+　　<span id="{{ post.id }}"><b>{{ post.slug }}</b></span>
 
 {%- for button_sections in post.buttons %}
 <br>
