@@ -13,7 +13,7 @@
     {%- assign sorted_by_modified = site.posts | sort:"last_modified_at" | reverse -%}
     {%- for post in sorted_by_modified limit 5-%}
     {%- if post.last_modified_at -%}
-    <li><b>{{ post.last_modified_at | date: "%Y/%m/%d" }} <u>{{ post.slug }}にボタンを追加しました。</u></b></li>
+    <li><b>{{ post.last_modified_at | date: "%Y/%m/%d" }} <u>『{{ post.slug }}』にボタンを追加しました。</u></b></li>
     {%- endif -%}
     {% endfor %}
   </ul>
