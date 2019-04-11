@@ -5,7 +5,8 @@ layout: home
 
 <!-- ndxbn 2018-10-22 this comment is label to assert deploy -->
 <!-- メインコンテンツよりも手前のレイヤーに表示するもの ここから -->
-<button type="button" id="stop-button" class="fixed">とめる？</button>
+<button type="button" id="stop-button" class="stop-button">とめる？</button>
+<div class="go-to-article-index"><a href="#article-index">配信の一覧へ</a></div>
 <!-- メインコンテンツよりも手前のレイヤーに表示するもの ここまで -->
 
 <br>
@@ -13,6 +14,26 @@ layout: home
 <header>
 {% include header.html %}
 </header>
+
+<a href="https://twitter.com/share" class="twitter-share-button" data-text="すこ！　#さなボタン" data-url="https://www.natorisana.love/" data-lang="ja">
+  Tweet
+</a>
+<br>
+
+<table class="linktable">
+  <tr>
+    <th>オマージュ<br>素敵なボタンサイト様</th>
+  <tr>
+    <td><a href="http://ushiumi.ichiya-boshi.net/">宇志海ボタン</a>様
+  <tr>
+    <td><a href="http://tsukino-mito.extrem.ne.jp/">美兎ボタン</a>様
+  <tr>
+    <td><a href="https://rimumaki.clocknote.net">りむとまきボタン</a>様
+  <tr>
+    <td><a href="http://inabagumi.sakura.ne.jp/">はねるボタン(2)</a>様
+  <tr>
+    <td><a href="/odanobu/">タロ耳又ボタン</a>様
+</table>
 
 <br>
 
@@ -34,7 +55,47 @@ layout: home
 {% include contents.html %}
 
 <hr style="margin: 1em 0 ;">
-<div><a href="javascript:scroll({ top: 0, left: 0, behavior:'smooth'})">ページの一番上へ戻る</a></div>
+{%- include go-to/top.html -%}
+
+<div class="profile-container">
+  <div class="profile-item profile-card">
+    <img class="natori-sana-icon"
+         src="https://yt3.ggpht.com/a-/ACSszfGXKWd3tA-jxTE7DavDR6ElciSzd7mHOSyFJA=s900-mo-c-c0xffffffff-rj-k-no"
+         alt="名取さなのアイコン">
+    <br>
+    名取さな／<br>
+    Sana Natori
+    <br>
+    <br>
+    <a href="https://twitter.com/sana_natori"><img src="/images/Twitter.png" alt="Twitter アカウントへのリンク画像"></a>
+    　
+    <a href="https://www.youtube.com/channel/UCIdEIHpS0TdkqRkHL5OkLtA"><img src="/images/Youtube.png" alt="YouTube チャンネルへのリンク画像"></a>
+    <br>
+    <br>
+    おはようございナース！🍆🍆🍆<br>
+    17さいの新人バーチャルYouTuber<br>
+    バーチャル地方 海の見える <br>
+    バーチャルサナトリウムの新米ナース
+  </div>
+
+  <div class="profile-item">
+    <a class="twitter-timeline" data-width="500" data-height="600" data-lang="ja"
+       href="https://twitter.com/sana_natori?ref_src=twsrc%5Etfw">
+      Tweets by sana_natori
+    </a>
+  </div>
+</div>
+
+<div id="article-index" class="article-index">
+  {%- include go-to/top.html -%}
+  <div>
+    <ul>
+      {%- for post in site.posts reversed -%}
+      <li><a href="/#{{ post.id }}">{{ post.date | date: "%Y/%m/%d" }}: {{ post.slug }}</a></li>
+      {%- endfor -%}
+    </ul>
+  </div>
+</div>
 
 <footer>
 {% include footer.html %}
