@@ -26,6 +26,12 @@
   }
 }
 
+.go-to-article-index {
+  position: fixed;
+  top: 20px;
+  left: 15px;
+}
+
 // 更新ログ
 @mixin modified-log {
   color: #808080;
