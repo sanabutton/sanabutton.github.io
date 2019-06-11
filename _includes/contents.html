@@ -1,6 +1,11 @@
 {% for post in site.posts reversed %}
 <hr style="margin: 1em 0 ;">
-　　<span id="{{ post.id }}"><b>{{ post.slug }}</b></span>
+　　<span id="{{ post.id }}">
+  <b>{{ post.slug }}</b>
+  {%- if post.stream_id -%}
+  （<a href="https://youtu.be/{{ post.stream_id }}" target="_blank" rel="noopener noreferrer">配信ページ</a>）
+  {%- endif -%}
+</span>
 
 {%- for button_sections in post.buttons %}
 <br>
