@@ -2,7 +2,7 @@
   <h2>追加履歴</h2>
   <ul>
     {%- for post in site.posts reverse limit:5 -%}
-    <li><b>{{ post.date | date: "%Y/%m/%d" }} <u>『{{ post.slug }}』のボタンを追加しました。</u></b></li>
+    <li><b>{{ post.date | date: "%Y/%m/%d" }} <a href="/#{{ post.id }}">『{{ post.slug }}』</a>のボタンを追加しました。</b></li>
     {% endfor %}
   </ul>
 </div>
@@ -13,7 +13,7 @@
     {%- assign sorted_by_modified = site.posts | sort:"last_modified_at" | reverse -%}
     {%- for post in sorted_by_modified limit 5-%}
     {%- if post.last_modified_at -%}
-    <li><b>{{ post.last_modified_at | date: "%Y/%m/%d" }} <u>『{{ post.slug }}』にボタンを追加しました。</u></b></li>
+    <li><b>{{ post.last_modified_at | date: "%Y/%m/%d" }} <a href="/#{{ post.id }}">『{{ post.slug }}』</a>にボタンを追加しました。</b></li>
     {%- endif -%}
     {% endfor %}
   </ul>
