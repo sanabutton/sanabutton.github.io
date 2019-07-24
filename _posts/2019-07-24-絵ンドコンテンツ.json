@@ -1,0 +1,70 @@
+---
+stream_id: Z8mBIcayNcY
+date: 2019-07-24
+buttons:
+  - - file-name: 絵ンドコンテンツ/完璧〜
+      value: 完璧〜
+    - file-name: 絵ンドコンテンツ/絵ンドコンテンツ
+      value: 絵ンドコンテンツ
+    - file-name: 絵ンドコンテンツ/ダメです
+      value: ダメです
+    - file-name: 絵ンドコンテンツ/名取を倒しても
+      value: 名取を倒しても
+    - file-name: 絵ンドコンテンツ/おなか鳴っちゃうねえ
+      value: おなか鳴っちゃうねえ
+    - file-name: 絵ンドコンテンツ/／貫通
+      value: ／貫通
+    - file-name: 絵ンドコンテンツ/コメ拾われライフハック
+      value: コメ拾われライフハック
+    - file-name: 絵ンドコンテンツ/お前聞いたな！？
+      value: お前聞いたな！？
+    - file-name: 絵ンドコンテンツ/治安悪ぃ〜！
+      value: 治安悪ぃ〜！
+    - file-name: 絵ンドコンテンツ/気をつけてアレ！？
+      value: 気をつけてアレ！？
+    - file-name: 絵ンドコンテンツ/はい悪口
+      value: はい悪口
+    - file-name: 絵ンドコンテンツ/ラフから始めると
+      value: ラフから始めると
+    - file-name: 絵ンドコンテンツ/絵（概念）にキレるナース
+      value: 絵（概念）にキレるナース
+    - file-name: 絵ンドコンテンツ/にじさんじでよく見るVTuber
+      value: にじさんじでよく見るVTuber
+    - file-name: 絵ンドコンテンツ/てぇてぇやだ
+      value: てぇてぇやだ
+    - file-name: 絵ンドコンテンツ/戦いか？
+      value: 戦いか？
+    - file-name: 絵ンドコンテンツ/黙ってくださ〜い
+      value: 黙ってくださ〜い
+    - file-name: 絵ンドコンテンツ/エンジンかかった
+      value: エンジンかかった
+    - file-name: 絵ンドコンテンツ/頑張りたいですね
+      value: 頑張りたいですね
+    - file-name: 絵ンドコンテンツ/新人声優
+      value: 新人声優
+  - - file-name: 絵ンドコンテンツ/その気になっちゃう
+      value: その気になっちゃう
+    - file-name: 絵ンドコンテンツ/申し訳！
+      value: 申し訳！
+    - file-name: 絵ンドコンテンツ/線画のブラシ
+      value: 線画のブラシ
+    - file-name: 絵ンドコンテンツ/やっちゃえバーサーカー
+      value: やっちゃえバーサーカー
+    - file-name: 絵ンドコンテンツ/銀盾まだ貰ってない
+      value: 銀盾まだ貰ってない
+    - file-name: 絵ンドコンテンツ/夏休みありますか？
+      value: 夏休みありますか？
+    - file-name: 絵ンドコンテンツ/あくびしてない
+      value: あくびしてない
+    - file-name: 絵ンドコンテンツ/めっちゃ口開いてた
+      value: めっちゃ口開いてた
+    - file-name: 絵ンドコンテンツ/恥ずかしい
+      value: 恥ずかしい
+    - file-name: 絵ンドコンテンツ/古戦場から逃げたら
+      value: 古戦場から逃げたら
+    - file-name: 絵ンドコンテンツ/強制連行
+      value: 強制連行
+    - file-name: 絵ンドコンテンツ/終わりました
+      value: 終わりました
+---
+{{ page.buttons | jsonify }}
