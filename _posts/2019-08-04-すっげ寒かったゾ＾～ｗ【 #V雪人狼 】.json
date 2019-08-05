@@ -1,0 +1,72 @@
+---
+stream_id: razqq6dAieE
+date: 2019-08-05
+buttons:
+  - - file-name: すっげ寒かったゾ＾～ｗ/おはようございナース
+      value: おはようございナース
+    - file-name: すっげ寒かったゾ＾～ｗ/ダイエット上手
+      value: ダイエット上手
+    - file-name: すっげ寒かったゾ＾～ｗ/ちゃんと会話できてた？
+      value: ちゃんと会話できてた？
+    - file-name: すっげ寒かったゾ＾～ｗ/鬼ぃ〜？
+      value: 鬼ぃ〜？
+    - file-name: すっげ寒かったゾ＾～ｗ/次
+      value: 次
+    - file-name: すっげ寒かったゾ＾～ｗ/連続
+      value: 連続
+    - file-name: すっげ寒かったゾ＾～ｗ/ピンク若干ふくよか
+      value: ピンク若干ふくよか
+    - file-name: すっげ寒かったゾ＾～ｗ/全視点面白い
+      value: 全視点面白い
+    - file-name: すっげ寒かったゾ＾～ｗ/まとめもおすすめ
+      value: まとめもおすすめ
+    - file-name: すっげ寒かったゾ＾～ｗ/看板
+      value: 看板
+    - file-name: すっげ寒かったゾ＾～ｗ/頭を垂れないゾ〜
+      value: 頭を垂れないゾ〜
+    - file-name: すっげ寒かったゾ＾～ｗ/おはござの闇
+      value: おはござの闇
+    - file-name: すっげ寒かったゾ＾～ｗ/信じた結果がこれだよ！
+      value: 信じた結果がこれだよ！
+    - file-name: すっげ寒かったゾ＾～ｗ/護身用？
+      value: 護身用？
+    - file-name: すっげ寒かったゾ＾～ｗ/逃げ切った世界線
+      value: 逃げ切った世界線
+    - file-name: すっげ寒かったゾ＾～ｗ/こいつら・・・！
+      value: こいつら・・・！
+    - file-name: すっげ寒かったゾ＾～ｗ/野良やってた
+      value: 野良やってた
+    - file-name: すっげ寒かったゾ＾～ｗ/以降野良はありません
+      value: 以降野良はありません
+    - file-name: すっげ寒かったゾ＾～ｗ/煽られたこと無い
+      value: 煽られたこと無い
+    - file-name: すっげ寒かったゾ＾～ｗ/バ美肉おじさん疑惑
+      value: バ美肉おじさん疑惑
+  - - file-name: すっげ寒かったゾ＾～ｗ/今回の反省点
+      value: 今回の反省点
+    - file-name: すっげ寒かったゾ＾～ｗ/面白かった（独り言）
+      value: 面白かった（独り言）
+    - file-name: すっげ寒かったゾ＾～ｗ/悪い子のふり
+      value: 悪い子のふり
+    - file-name: すっげ寒かったゾ＾～ｗ/看板は壊さない
+      value: 看板は壊さない
+    - file-name: すっげ寒かったゾ＾～ｗ/ふふん
+      value: ふふん
+    - file-name: すっげ寒かったゾ＾～ｗ/終わり！
+      value: 終わり！
+    - file-name: すっげ寒かったゾ＾～ｗ/さなだけに
+      value: さなだけに
+    - file-name: すっげ寒かったゾ＾～ｗ/今の何ー！？
+      value: 今の何ー！？
+    - file-name: すっげ寒かったゾ＾～ｗ/生きててくれてありがとう
+      value: 生きててくれてありがとう
+    - file-name: すっげ寒かったゾ＾～ｗ/看板は壊しません
+      value: 看板は壊しません
+    - file-name: すっげ寒かったゾ＾～ｗ/くそオチ
+      value: くそオチ
+    - file-name: すっげ寒かったゾ＾～ｗ/オチ（告知）
+      value: オチ（告知）
+    - file-name: すっげ寒かったゾ＾～ｗ/名取パーカー出ます
+      value: 名取パーカー出ます
+---
+{{ page.buttons | jsonify }}
