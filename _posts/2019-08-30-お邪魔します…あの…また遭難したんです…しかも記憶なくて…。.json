@@ -1,6 +1,7 @@
 ---
 stream_id: DYT8jWWNs7k
 date: 2019-09-01
+last_modified_at: 2019-09-16
 buttons:
   - - file-name: また遭難したんです/インターネット有象無象
       value: インターネット有象無象
@@ -294,6 +295,8 @@ buttons:
       value: こわ
     - file-name: また遭難したんです/開かんのか〜い
       value: 開かんのか〜い
+    - file-name: また遭難したんです/ほかほかファイヤーぷれいす
+      value: ほかほかファイヤーぷれいす
     - file-name: また遭難したんです/すぐビビらすじゃん
       value: すぐビビらすじゃん
     - file-name: また遭難したんです/トラックメイカー
