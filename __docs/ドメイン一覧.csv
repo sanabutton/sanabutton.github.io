@@ -1,0 +1,4 @@
+FQDN,内容,レコードの種類,レコードの内容
+natorisana.love,www. へリダイレクト,A,35.185.240.247
+www.natorisana.love,さなボタン(2),CNAME,sanabutton.github.io
+1st.natorisana.love,1周年記念のファンサイト,CNAME,sana-nantori-1st-anniversary.github.io
