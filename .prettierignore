@@ -47,3 +47,5 @@ api/
 *.xml
 ## PlantUML
 *.puml
+## Data
+*.csv
