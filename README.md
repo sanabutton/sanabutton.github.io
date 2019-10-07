@@ -23,4 +23,4 @@ Atom Feed と sitemap があります。
 Feed は、 `updated` フィールドでソートされているので、「過去の配信分にボタンが追加された」場合でも更新通知が来ます。
 
 sitemap は、例えば「配信ごとのボタンの一覧を返す JSON ファイルの一覧」などに使えると思います。
-正しく sitemap になっているので、 [過去の宣伝のページ](https://www.natorisana.love/events.htm)や[タロ耳又ボタン](https://www.natorisana.love/odanobu/)も含まれているので、適当にフィルタリングする必要があると思います。
+正しく sitemap になっているので、 [過去の宣伝のページ](https://www.natorisana.love/events.html)や[タロ耳又ボタン](https://www.natorisana.love/odanobu/)も含まれているので、適当にフィルタリングする必要があると思います。
