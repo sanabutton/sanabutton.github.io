@@ -27,24 +27,11 @@ sitemap は、例えば「配信ごとのボタンの一覧を返す JSON ファ
 
 ### API があるよ
 
-基本は、
-
-- 「Feed を見て追加分を確認」と「updates で追加・更新されたやつを確認」
-- ほしい分のボタン一覧を `/api/button/{title}.json` からとってくる
-
-という流れになると思います。
-
-#### 一覧系
-
 一覧系は `/api/{version}/{name}.json` というパスになっています。 `{version}` は、SemVer MAJOR なバージョンです。
 
-updates 以外はめちゃ重たいので実用できないと思います。Google Chrome で開こうとするとメモリ不足になるレベル。
+- [updateds.json](https://www.natorisana.love/api/v1/updateds.json) 更新のあった posts とその更新日。
+- [post-list.json](https://www.natorisana.love/api/v1/post-list.json) 「配信ごとのボタンのページ」の URL 一覧
+- [posts.json](https://www.natorisana.love/api/v1/posts.json) Jekyll のビルドイン変数 `site.posts` をそのまま JSON にしたもの（ブラウザでは開けないサイズ）
+- [buttons.json](https://www.natorisana.love/api/v1/buttons.json) ボタンの一覧（ブラウザでは開けないサイズ）
 
-- [updateds.json](https://www.natorisana.love/api/v1/updateds.json)
-- [posts.json](https://www.natorisana.love/api/v1/posts.json) （めちゃ重たい）
-- [buttons.json](https://www.natorisana.love/api/v1/buttons.json) （めちゃ重たい）
-
-#### 配信ごとのボタンの一覧
-
-各配信ごとのボタンは、 `/api/button/{title}.json` というパスになっています。
-[Feed の link を見て](https://www.natorisana.love/feed.xml)察してください。
+各配信ごとのボタンは、 `/api/button/{title}.json` というパスになっています。一覧系の post-list.json を見ればわかりますね。
