@@ -46,5 +46,5 @@ updates 以外はめちゃ重たいので実用できないと思います。Goo
 
 #### 配信ごとのボタンの一覧
 
-各配信ごとのボタンは、 `/api/button/{title}.json` というパスになっています。これは `{title}` が `{stream_id}` に変わる可能性が高いです。
-まだ使わないほうが良いです。
+各配信ごとのボタンは、 `/api/button/{title}.json` というパスになっています。
+[Feed の link を見て](https://www.natorisana.love/feed.xml)察してください。
