@@ -1,5 +1,5 @@
 ---
-#last_modified_at: 2019-03-08
+last_modified_at: 2020-01-07
 buttons:
   - - file-name: GW振り返り配信/おうたー？
       value: おうたー？
@@ -65,6 +65,8 @@ buttons:
       value: バイノーラルハッピーバースデー
     - file-name: せんせえがバーチャルさんを見ている時バーチャルさんもまた以下略/おもちゃの兵隊の行進曲
       value: 3分クッキング
+    - file-name: 未定/カントリーロード
+      value: カントリーロード
   - - file-name: GW振り返り配信/ヌォンタートの由来
       value: ヌォンタートの由来
     - file-name: GW振り返り配信/アンテいい作品だから
