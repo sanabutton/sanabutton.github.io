@@ -1,0 +1,34 @@
+---
+stream_id: VDffNbNBCYs
+date: 2020-01-14
+buttons:
+  - - file-name: 新春！恐怖の労働はじめ/冒頭あらすじ
+      value: 冒頭あらすじ
+    - file-name: 新春！恐怖の労働はじめ/国捨てて木こりやってた皇女
+      value: 国捨てて木こりやってた皇女
+    - file-name: 新春！恐怖の労働はじめ/ヘルエスタァ！
+      value: ヘルエスタァ！
+    - file-name: 新春！恐怖の労働はじめ/ヘルエスタできるじゃん
+      value: ヘルエスタできるじゃん
+    - file-name: 新春！恐怖の労働はじめ/頑張れじゃないよ頑張るんだよ！！
+      value: 頑張れじゃないよ頑張るんだよ！！
+    - file-name: 新春！恐怖の労働はじめ/いっちゃらめえええ
+      value: いっちゃらめえええ
+    - file-name: 新春！恐怖の労働はじめ/まかしとき〜
+      value: まかしとき〜
+    - file-name: 新春！恐怖の労働はじめ/火消し
+      value: 火消し
+    - file-name: 新春！恐怖の労働はじめ/社長「すいません」
+      value: 社長「すいません」
+    - file-name: 新春！恐怖の労働はじめ/株返して
+      value: 株返して
+    - file-name: 新春！恐怖の労働はじめ/所長がめっちゃキレる朝礼
+      value: 所長がめっちゃキレる朝礼
+    - file-name: 新春！恐怖の労働はじめ/終電を作る
+      value: 終電を作る
+    - file-name: 新春！恐怖の労働はじめ/倒産
+      value: 倒産
+    - file-name: 新春！恐怖の労働はじめ/締めの言葉
+      value: 締めの言葉
+---
+{{ page.buttons | jsonify }}
