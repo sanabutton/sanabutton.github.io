@@ -5,6 +5,9 @@
   {%- if post.stream_id -%}
   （<a href="https://youtu.be/{{ post.stream_id }}" target="_blank" rel="noopener noreferrer">配信ページ</a>）
   {%- endif -%}
+  {%- if post.tweed_id -%}
+  （<a href="https://twitter.com/sana_natori/status/{{ post.tweed_id }}" target="_blank" rel="noopener noreferrer">ツイート</a>）
+  {%- endif -%}
 </span>
 
 {%- for button_sections in post.buttons %}
