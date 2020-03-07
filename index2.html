@@ -1,1 +1,40 @@
-frontend/index.html
+---
+layout: develop
+---
+<script src="/button.js"></script>
+
+<h1>ここは、開発者用のページです！！</h1>
+
+<!-- ndxbn 2018-10-22 this comment is label to assert deploy -->
+<!-- メインコンテンツよりも手前のレイヤーに表示するもの ここから -->
+<button type="button" id="stop-button" class="stop-button">とめる？</button>
+<div class="go-to-article-index"><a href="#article-index">配信の一覧へ</a></div>
+<!-- メインコンテンツよりも手前のレイヤーに表示するもの ここまで -->
+
+<br>
+
+<header>
+{% include header.html %}
+</header>
+
+<a href="/events.html">過去のグッズや連載などは、 /events.html</a>
+
+{% include contents.html %}
+
+<hr style="margin: 1em 0 ;">
+{%- include go-to/top.html -%}
+
+<div id="article-index" class="article-index">
+  {%- include go-to/top.html -%}
+  <div>
+    <ul>
+      {%- for post in site.posts reversed -%}
+      <li><a href="/#{{ post.id }}">{{ post.date | date: "%Y/%m/%d" }}: {{ post.slug }}</a></li>
+      {%- endfor -%}
+    </ul>
+  </div>
+</div>
+
+<footer>
+{% include footer.html %}
+</footer>
