@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2020-01-07
+last_modified_at: 2020-03-08
 buttons:
   - - file-name: GW振り返り配信/おうたー？
       value: おうたー？
@@ -69,6 +69,18 @@ buttons:
       value: カントリーロード
     - file-name: 感情を取り戻したオタクの配信/Pretender
       value: Pretender
+  - - file-name: さなのばくさん。/新宝島
+      value: 新宝島
+    - file-name: さなのばくさん。/ハレ晴レユカイ
+      value: ハレ晴レユカイ
+    - file-name: さなのばくさん。/ｷﾎﾞｳﾉﾊﾅｰ
+      value: フリージア
+    - file-name: さなのばくさん。/ロイツマ
+      value: ロイツマ
+    - file-name: さなのばくさん。/Fantastic_future
+      value: Fantastic future
+    - file-name: さなのばくさん。/PINK_All_PINK
+      value: PINK,All,PINK!
   - - file-name: GW振り返り配信/ヌォンタートの由来
       value: ヌォンタートの由来
     - file-name: GW振り返り配信/アンテいい作品だから
