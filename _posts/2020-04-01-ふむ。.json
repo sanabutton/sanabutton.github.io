@@ -1,0 +1,26 @@
+---
+stream_id: LTRHZdI-Ug0
+date: 2020-04-02
+buttons:
+  - - file-name: ふむ。/聞こえておる？
+      value: 聞こえておる？
+    - file-name: ふむ。/聞こえておるか？
+      value: 聞こえておるか？
+    - file-name: ふむ。/早すぎて見えん1
+      value: 早すぎて見えん1
+    - file-name: ふむ。/分かりやすくゆっくり
+      value: 分かりやすくゆっくり
+    - file-name: ふむ。/早すぎて見えん2
+      value: 早すぎて見えん2
+    - file-name: ふむ。/朝は苦手
+      value: 朝は苦手
+    - file-name: ふむ。/は？って何じゃ
+      value: は？って何じゃ
+    - file-name: ふむ。/日和るな
+      value: 日和るな
+    - file-name: ふむ。/生意気なんじゃが
+      value: 生意気なんじゃが
+    - file-name: ふむ。/インターネットでもして過ごすんじゃな
+      value: インターネットでもして過ごすんじゃな
+---
+{{ page.buttons | jsonify }}
