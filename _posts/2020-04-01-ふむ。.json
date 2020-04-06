@@ -20,7 +20,7 @@ buttons:
       value: 日和るな
     - file-name: ふむ。/生意気なんじゃが
       value: 生意気なんじゃが
-    - file-name: ふむ。/インターネットでもして過ごすんじゃな
-      value: インターネットでもして過ごすんじゃな
+    - file-name: ふむ。/インターネットでもして過ごすじゃな
+      value: インターネットでもして過ごすんじゃな
 ---
 {{ page.buttons | jsonify }}
