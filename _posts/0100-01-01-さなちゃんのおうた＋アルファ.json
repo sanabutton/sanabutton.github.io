@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2020-03-08
+last_modified_at: 2020-04-18
 buttons:
   - - file-name: GW振り返り配信/おうたー？
       value: おうたー？
@@ -85,6 +85,10 @@ buttons:
       value: PINK,All,PINK!
     - file-name: あ〜もうめちゃくちゃだよ、マジで。/ふにゃらかカノン
       value: ふにゃらかカノン
+    - file-name: インターネットの果実/さなのおうた（マジで島Ver）
+      value: さなのおうた（マジで島Ver）
+    - file-name: 今日はオタクくんの大好物を持ってきたよ！/なのです
+      value: なのです☆
   - - file-name: GW振り返り配信/ヌォンタートの由来
       value: ヌォンタートの由来
     - file-name: GW振り返り配信/アンテいい作品だから
