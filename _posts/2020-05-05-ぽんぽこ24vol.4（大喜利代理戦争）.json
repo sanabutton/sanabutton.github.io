@@ -1,0 +1,18 @@
+---
+stream_id: YgZAwf9Zk-w
+date: 2020-05-17
+buttons:
+  - - file-name: 大喜利代理戦争/保育園児見てる〜？
+      value: 保育園児見てる〜？
+    - file-name: 大喜利代理戦争/クレカで拭く
+      value: クレカで拭く
+    - file-name: 大喜利代理戦争/俺の勝ち！
+      value: 俺の勝ち！
+    - file-name: 大喜利代理戦争/コールセンターの人に当たりが強い
+      value: コールセンターの人に当たりが強い
+    - file-name: 大喜利代理戦争/なんで俺がジャンプマスターなの〜！？
+      value: なんで俺がジャンプマスターなの〜！？
+    - file-name: 大喜利代理戦争/小鼓早くなかった？
+      value: 小鼓早くなかった？
+---
+{{ page.buttons | jsonify }}
