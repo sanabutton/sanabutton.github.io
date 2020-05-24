@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2020-05-01
+last_modified_at: 2020-05-23
 buttons:
   - - file-name: GW振り返り配信/おうたー？
       value: おうたー？
@@ -95,6 +95,10 @@ buttons:
       value: もじぴったん2
     - file-name: ことばのちからは頭脳の証/もじぴったん3
       value: もじぴったん3
+    - file-name: ミニ名取大量生産予定地/戦闘！ジムリーダー（剣盾）
+      value: 戦闘！ジムリーダー（剣盾）
+    - file-name: ミニ名取大量生産予定地/蛍の光
+      value: 蛍の光
   - - file-name: GW振り返り配信/ヌォンタートの由来
       value: ヌォンタートの由来
     - file-name: GW振り返り配信/アンテいい作品だから
