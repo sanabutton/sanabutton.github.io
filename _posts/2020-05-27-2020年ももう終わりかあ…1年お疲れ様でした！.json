@@ -1,0 +1,86 @@
+---
+stream_id: jau819ooXrc
+date: 2020-06-11
+buttons:
+  - - file-name: 2020年ももう終わりかあ/さーちゃん
+      value: さーちゃん
+    - file-name: 2020年ももう終わりかあ/ブロックせんせえ
+      value: ブロックせんせえ
+    - file-name: 2020年ももう終わりかあ/グルグル？
+      value: グルグル？
+    - file-name: 2020年ももう終わりかあ/ぽまいの環境は？
+      value: ぽまいの環境は？
+    - file-name: 2020年ももう終わりかあ/グルッてる
+      value: グルッてる
+    - file-name: 2020年ももう終わりかあ/グルッてない
+      value: グルッてない
+    - file-name: 2020年ももう終わりかあ/これね
+      value: これね
+    - file-name: 2020年ももう終わりかあ/許してつかぁさい
+      value: 許してつかぁさい
+    - file-name: 2020年ももう終わりかあ/ﾁｮﾁｮﾁｮﾁｮﾁｮ
+      value: ﾁｮﾁｮﾁｮﾁｮﾁｮ
+    - file-name: 2020年ももう終わりかあ/メンタリスト
+      value: メンタリスト
+    - file-name: 2020年ももう終わりかあ/AKB49
+      value: AKB49
+    - file-name: 2020年ももう終わりかあ/全部読んでる
+      value: 全部読んでる
+    - file-name: 2020年ももう終わりかあ/AKB49解説1
+      value: AKB49解説1
+    - file-name: 2020年ももう終わりかあ/AKB49解説2
+      value: AKB49解説2
+    - file-name: 2020年ももう終わりかあ/ネタバレ注意1
+      value: ネタバレ注意1
+    - file-name: 2020年ももう終わりかあ/kindle破産
+      value: kindle破産
+    - file-name: 2020年ももう終わりかあ/ネタバレ注意2
+      value: ネタバレ注意2
+    - file-name: 2020年ももう終わりかあ/オタクの好きなやつ
+      value: オタクの好きなやつ
+    - file-name: 2020年ももう終わりかあ/何でもできてしまうのすごい
+      value: 何でもできてしまうのすごい
+    - file-name: 2020年ももう終わりかあ/ダンスできる人すごい
+      value: ダンスできる人すごい
+  - - file-name: 2020年ももう終わりかあ/アイドル？
+      value: アイドル？
+    - file-name: 2020年ももう終わりかあ/アイドル好きかも
+      value: アイドル好きかも
+    - file-name: 2020年ももう終わりかあ/頑張る人間が好き
+      value: 頑張る人間が好き
+    - file-name: 2020年ももう終わりかあ/非攻略キャラ好き
+      value: 非攻略キャラ好き
+    - file-name: 2020年ももう終わりかあ/今北産業
+      value: 今北産業
+    - file-name: 2020年ももう終わりかあ/非攻略キャラになりたい
+      value: 非攻略キャラになりたい
+    - file-name: 2020年ももう終わりかあ/名取さな（非攻略キャラ）
+      value: 名取さな（非攻略キャラ）
+    - file-name: 2020年ももう終わりかあ/すごいグルグル
+      value: すごいグルグル
+    - file-name: 2020年ももう終わりかあ/ぬるぽ
+      value: ぬるぽ
+    - file-name: 2020年ももう終わりかあ/VMDJの話
+      value: VMDJの話
+    - file-name: 2020年ももう終わりかあ/おかえり〜
+      value: おかえり〜
+    - file-name: 2020年ももう終わりかあ/おかえり
+      value: おかえり
+    - file-name: 2020年ももう終わりかあ/聞こえてなかった？
+      value: 聞こえてなかった？
+    - file-name: 2020年ももう終わりかあ/言ったンゴ
+      value: 言ったンゴ
+    - file-name: 2020年ももう終わりかあ/ファンメイド曲の話
+      value: ファンメイド曲の話
+    - file-name: 2020年ももう終わりかあ/はなとなりの話
+      value: はなとなりの話
+    - file-name: 2020年ももう終わりかあ/さなのおうた。の話
+      value: さなのおうた。の話
+    - file-name: 2020年ももう終わりかあ/YouTubeさんラブちゅっちゅ
+      value: YouTubeさんラブちゅっちゅ
+    - file-name: 2020年ももう終わりかあ/ぬるぽオチ
+      value: ぬるぽオチ
+    - file-name: 2020年ももう終わりかあ/ぬるぽ聞こえるんかよ
+      value: ぬるぽ聞こえるんかよ
+---
+{{ page.buttons | jsonify }}
