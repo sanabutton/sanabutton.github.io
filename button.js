@@ -4,35 +4,36 @@ var syncerSounds = {
 };
 
 // IFrame Player APIの読み込み
-var tag = document.createElement('script');
+var tag = document.createElement("script");
 tag.src = "https://www.youtube.com/iframe_api";
-var firstScriptTag = document.getElementsByTagName('script')[0];
+var firstScriptTag = document.getElementsByTagName("script")[0];
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
 /**
  * YouTubeプレーヤーの読み込みを行う
- */ 
+ */
+
 // プレーヤー挿入箇所のidを指定
 var player;
 // プレーヤーの読み込み
 // 初回起動時はvideoIdで指定した動画のセットのみ行う（再生ボタンを押すまでFLVはロードされない）
 function onYouTubeIframeAPIReady() {
-  player = new YT.Player('player', {
-    videoId: 'AeB6SOvka44',
+  player = new YT.Player("player", {
+    videoId: "AeB6SOvka44",
     playerVars: {
       enablejsapi: 1,
-      playsinline: 1
+      playsinline: 1,
     },
     events: {
       //'onReady': onPlayerReady,
       //'onStateChange': onPlayerStateChange
-    }
+    },
   });
 }
 
 /**
  * 動画の準備が完了したときに呼び出されるメソッド
- * @param {*} event 
+ * @param {*} event
  */
 function onPlayerReady(event) {
   // 動画をミュートにしてから再生する（この場合はスマホでも自動再生可能）
@@ -104,7 +105,6 @@ document.addEventListener("DOMContentLoaded", function () {
   var dataStart = null;
   /** @var ユーチューブ動画の再生終了時間。nullの場合動画の最後まで再生される */
   var dataEnd = null;
-  
 
   var sounds = document.getElementsByClassName(soundButtonClassName);
 
@@ -168,24 +168,20 @@ document.addEventListener("DOMContentLoaded", function () {
   /**
    * YouTube動画ボタンクリック時の処理
    */
-  var youtubeSounds = document.getElementsByClassName(soundYoutubeButtonClassName);
+  var youtubeSounds = document.getElementsByClassName(
+    soundYoutubeButtonClassName
+  );
   for (var i = 0, l = youtubeSounds.length; l > i; i++) {
     youtubeSounds[i].onclick = function () {
-
       dataId = this.getAttribute("data-id");
       dataStart = this.getAttribute("data-start");
       dataEnd = this.getAttribute("data-end");
 
       // YouTubeプレーヤー形式のURLを作成
       mediaContentUrl = firstUrl + dataId + playParam;
-      
+
       // 指定された動画をプレーヤーに読み込む
       player.loadVideoByUrl(mediaContentUrl, dataStart, dataEnd);
-      
     };
   }
-  
 });
-
-
-
