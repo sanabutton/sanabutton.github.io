@@ -81,8 +81,6 @@ buttons:
       value: ロイツマ
     - file-name: さなのばくさん。/Fantastic_future
       value: Fantastic future
-    - file-name: さなのばくさん。/PINK_All_PINK
-      value: PINK,All,PINK!
     - file-name: あ〜もうめちゃくちゃだよ、マジで。/ふにゃらかカノン
       value: ふにゃらかカノン
     - file-name: インターネットの果実/さなのおうた（マジで島Ver）
@@ -103,6 +101,20 @@ buttons:
       value: ループ（坂本真綾）
     - file-name: 女児だしシールが欲しいんだよ！/隣に…
       value: 隣に…
+  - - file-name: バーチャルサナトリウムカラオケ部/ふにゃらかカチューシャ
+      value: ふにゃらかカチューシャ
+    - file-name: バーチャルサナトリウムカラオケ部/パンチマインド
+      value: パンチマインド
+    - file-name: 夜に駆けて夜をこえた女/ユニバーページ
+      value: ユニバーページ
+    - file-name: 夜に駆けて夜をこえた女/ハロー大豆の歌1
+      value: ハロー大豆の歌1
+    - file-name: 夜に駆けて夜をこえた女/ハロー大豆の歌2
+      value: ハロー大豆の歌2
+    - file-name: 夜に駆けて夜をこえた女/もってけ！セーラーふく
+      value: もってけ！セーラーふく
+    - file-name: 夜に駆けて夜をこえた女/止マレ！
+      value: 止マレ！
   - - file-name: GW振り返り配信/ヌォンタートの由来
       value: ヌォンタートの由来
     - file-name: GW振り返り配信/アンテいい作品だから
