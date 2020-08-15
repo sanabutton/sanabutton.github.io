@@ -119,6 +119,12 @@ buttons:
       value: 表裏一体
     - file-name: 好きな役は中一色です/手のひらを太陽に
       value: 手のひらを太陽に
+    - file-name: 初めてなのに、勝てちゃった/経験値上昇中☆
+      value: 経験値上昇中☆
+    - file-name: 初めてなのに、勝てちゃった/UNION
+      value: UNION
+    - file-name: 初めてなのに、勝てちゃった/Lemon
+      value: Lemon
   - - file-name: GW振り返り配信/ヌォンタートの由来
       value: ヌォンタートの由来
     - file-name: GW振り返り配信/アンテいい作品だから
