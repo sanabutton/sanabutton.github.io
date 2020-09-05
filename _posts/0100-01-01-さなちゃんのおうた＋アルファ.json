@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2020-05-23
+last_modified_at: 2020-09-05
 buttons:
   - - file-name: GW振り返り配信/おうたー？
       value: おうたー？
@@ -125,6 +125,10 @@ buttons:
       value: UNION
     - file-name: 初めてなのに、勝てちゃった/Lemon
       value: Lemon
+    - file-name: あんたたち！ワンドロするわよ！/夢の中へ（替え歌）
+      value: 夢の中へ（替え歌）
+    - file-name: あんたたち！ワンドロするわよ！/ギャグマンガ日和
+      value: ギャグマンガ日和
   - - file-name: GW振り返り配信/ヌォンタートの由来
       value: ヌォンタートの由来
     - file-name: GW振り返り配信/アンテいい作品だから
@@ -165,6 +169,10 @@ buttons:
       value: 古戦場逃げていいよ
     - file-name: 未定/古戦場そこそこに頑張ろうな
       value: 古戦場そこそこに頑張ろうな
+    - file-name: あんたたち！ワンドロするわよ！/その古戦場、大切ですか？
+      value: その古戦場、大切ですか？
+    - file-name: あんたたち！ワンドロするわよ！/騎空士「大切」
+      value: 騎空士「大切」
 #  - - file-name: 17才だよ？！さなちゃん祭り！/ハッピー☆マテリアル
 #      value: ハッピー☆マテリアル
 #    - file-name: 17才だよ？！さなちゃん祭り！/staple stable
