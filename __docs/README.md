@@ -5,8 +5,8 @@
 「音源」は、ボタンを押したときに再生される音声をおいておくだけの場所です。
 「本体」は、音源データそのもの以外の「さなボタン(2)を構成するすべて」が含まれます。音源に関するメタデータも本体に含みます。
 
-![ブラウザと本体と音源とのアクセス](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/sanabutton/sanabutton.github.io/development/__docs/client-server-accesses.puml)
-![アクセスからボタンを押すまでのシーケンス図](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/sanabutton/sanabutton.github.io/development/__docs/play-sounds-sequence.puml)
+![ブラウザと本体と音源とのアクセス](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/sanabutton/sanabutton.github.io/master/__docs/client-server-accesses.puml)
+![アクセスからボタンを押すまでのシーケンス図](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/sanabutton/sanabutton.github.io/master/__docs/play-sounds-sequence.puml)
 
 ## ビルドについて
 
@@ -17,7 +17,7 @@ Docker が使えるなら `docker-compose up` 、Node.js と Ruby がインス�
 
 さなボタン(2) 本体のビルドは、以下のようなフローになっています。
 
-![ビルドフローのアクティビティ図](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/sanabutton/sanabutton.github.io/development/__docs/build-flow.puml)
+![ビルドフローのアクティビティ図](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/sanabutton/sanabutton.github.io/master/__docs/build-flow.puml)
 
 各「ビルド」の具体的なコマンドは、[package.json](https://github.com/sanabutton/sanabutton.github.io/blob/development/package.json) の script を見ればわかります。
 
