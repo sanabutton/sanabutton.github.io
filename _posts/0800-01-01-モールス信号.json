@@ -1,0 +1,163 @@
+---
+last_modified_at: 2020-12-03
+buttons:
+  - - file-name: モールス信号/オ（モールス信号）
+      value: オ
+    - file-name: モールス信号/ハ（モールス信号）
+      value: ハ
+    - file-name: モールス信号/ヨ（モールス信号）
+      value: ヨ
+    - file-name: モールス信号/ウ（モールス信号）
+      value: ウ
+    - file-name: モールス信号/コ（モールス信号）
+      value: コ
+    - file-name: モールス信号/゛（モールス信号）
+      value: ゛
+    - file-name: モールス信号/サ（モールス信号）
+      value: サ
+    - file-name: モールス信号/゛（モールス信号）2
+      value: ゛
+    - file-name: モールス信号/イ（モールス信号）
+      value: イ
+    - file-name: モールス信号/ナ（モールス信号）
+      value: ナ
+    - file-name: モールス信号/ー（モールス信号）
+      value: ー
+    - file-name: モールス信号/ス（モールス信号）
+      value: ス
+  - - file-name: モールス信号/オ（モールス信号）2
+      value: オ
+    - file-name: モールス信号/ハ（モールス信号）2
+      value: ハ
+    - file-name: モールス信号/ヨ（モールス信号）2
+      value: ヨ
+    - file-name: モールス信号/ウ（モールス信号）2
+      value: ウ
+    - file-name: モールス信号/コ（モールス信号）2
+      value: コ
+    - file-name: モールス信号/゛（モールス信号）3
+      value: ゛
+    - file-name: モールス信号/サ（モールス信号）2
+      value: サ
+    - file-name: モールス信号/゛（モールス信号）4
+      value: ゛
+    - file-name: モールス信号/イ（モールス信号）2
+      value: イ
+    - file-name: モールス信号/ナ（モールス信号）2
+      value: ナ
+    - file-name: モールス信号/ー（モールス信号）2
+      value: ー
+    - file-name: モールス信号/ス（モールス信号）2
+      value: ス
+  - - file-name: モールス信号/ア
+      value: ア
+    - file-name: モールス信号/イ
+      value: イ
+    - file-name: モールス信号/ウ
+      value: ウ
+    - file-name: モールス信号/エ
+      value: エ
+    - file-name: モールス信号/オ
+      value: オ
+  - - file-name: モールス信号/カ
+      value: カ
+    - file-name: モールス信号/キ
+      value: キ
+    - file-name: モールス信号/ク
+      value: ク
+    - file-name: モールス信号/ケ
+      value: ケ
+    - file-name: モールス信号/コ
+      value: コ
+  - - file-name: モールス信号/サ
+      value: サ
+    - file-name: モールス信号/シ
+      value: シ
+    - file-name: モールス信号/ス
+      value: ス
+    - file-name: モールス信号/セ
+      value: セ
+    - file-name: モールス信号/ソ
+      value: ソ
+  - - file-name: モールス信号/タ
+      value: タ
+    - file-name: モールス信号/チ
+      value: チ
+    - file-name: モールス信号/ツ
+      value: ツ
+    - file-name: モールス信号/テ
+      value: テ
+    - file-name: モールス信号/ト
+      value: ト
+  - - file-name: モールス信号/ナ
+      value: ナ
+    - file-name: モールス信号/ニ
+      value: ニ
+    - file-name: モールス信号/ヌ
+      value: ヌ
+    - file-name: モールス信号/ネ
+      value: ネ
+    - file-name: モールス信号/ノ
+      value: ノ
+  - - file-name: モールス信号/ハ
+      value: ハ
+    - file-name: モールス信号/ヒ
+      value: ヒ
+    - file-name: モールス信号/フ
+      value: フ
+    - file-name: モールス信号/ヘ
+      value: ヘ
+    - file-name: モールス信号/ホ
+      value: ホ
+  - - file-name: モールス信号/マ
+      value: マ
+    - file-name: モールス信号/ミ
+      value: ミ
+    - file-name: モールス信号/ム
+      value: ム
+    - file-name: モールス信号/メ
+      value: メ
+    - file-name: モールス信号/モ
+      value: モ
+  - - file-name: モールス信号/ヤ
+      value: ヤ
+    - file-name: dummy
+      value: 　
+    - file-name: モールス信号/ユ
+      value: ユ
+    - file-name: dummy
+      value: 　
+    - file-name: モールス信号/ヨ
+      value: ヨ
+  - - file-name: モールス信号/ラ
+      value: ラ
+    - file-name: モールス信号/リ
+      value: リ
+    - file-name: モールス信号/ル
+      value: ル
+    - file-name: モールス信号/レ
+      value: レ
+    - file-name: モールス信号/ロ
+      value: ロ
+  - - file-name: モールス信号/ワ
+      value: ワ
+    - file-name: モールス信号/ヰ
+      value: ヰ
+    - file-name: dummy
+      value: 　
+    - file-name: モールス信号/ヱ
+      value: ヱ
+    - file-name: モールス信号/ヲ
+      value: ヲ
+  - - file-name: モールス信号/ン
+      value: ン
+    - file-name: モールス信号/ー
+      value: ー
+    - file-name: モールス信号/゛
+      value: ゛
+    - file-name: モールス信号/゜
+      value: ゜
+    - file-name: モールス信号/、
+      value: 、
+---
+{{ page.buttons | jsonify }}
