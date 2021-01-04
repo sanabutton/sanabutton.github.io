@@ -1,0 +1,90 @@
+---
+stream_id: ct9xM0_NTVw
+date: 2021-01-04
+buttons:
+  - - file-name: 徹夜明けでハイ/おはようございナース
+      value: おはようございナース
+    - file-name: 徹夜明けでハイ/徹夜明けテンションで歌う
+      value: 徹夜明けテンションで歌う
+    - file-name: 徹夜明けでハイ/ﾄﾞｰﾓﾄﾞｰﾓﾄﾞｰﾓ
+      value: ﾄﾞｰﾓﾄﾞｰﾓﾄﾞｰﾓ
+    - file-name: 徹夜明けでハイ/どうしよっかな〜
+      value: どうしよっかな〜
+    - file-name: 徹夜明けでハイ/好きな歌歌っちゃうか
+      value: 好きな歌歌っちゃうか
+    - file-name: 徹夜明けでハイ/次何にしよっかな〜
+      value: 次何にしよっかな〜
+    - file-name: 徹夜明けでハイ/テンション高いです
+      value: テンション高いです
+    - file-name: 徹夜明けでハイ/なんかあるかな〜
+      value: なんかあるかな〜
+    - file-name: 徹夜明けでハイ/ﾃﾝﾃﾝﾃﾝﾃﾝ
+      value: ﾃﾝﾃﾝﾃﾝﾃﾝ
+    - file-name: 徹夜明けでハイ/エンジンかかってきたな
+      value: エンジンかかってきたな
+    - file-name: 徹夜明けでハイ/笑い声1
+      value: 笑い声1
+    - file-name: 徹夜明けでハイ/（えーっと）
+      value: （えーっと）
+    - file-name: 徹夜明けでハイ/星野源好きなんだよね
+      value: 星野源好きなんだよね
+    - file-name: 徹夜明けでハイ/何歌おっかな〜
+      value: 何歌おっかな〜
+    - file-name: 徹夜明けでハイ/（あとはね〜）
+      value: （あとはね〜）
+    - file-name: 徹夜明けでハイ/（ふんふん）
+      value: （ふんふん）
+    - file-name: 徹夜明けでハイ/今ならいけるかも
+      value: 今ならいけるかも
+    - file-name: 徹夜明けでハイ/前回よりも進歩が見える？
+      value: 前回よりも進歩が見える？
+    - file-name: 徹夜明けでハイ/夜に駆けすぎる
+      value: 夜に駆けすぎる
+    - file-name: 徹夜明けでハイ/KING
+      value: KING
+  - - file-name: 徹夜明けでハイ/ちょっと待ってね
+      value: ちょっと待ってね
+    - file-name: 徹夜明けでハイ/一瞬ちょっと待ってね〜
+      value: 一瞬ちょっと待ってね〜
+    - file-name: 徹夜明けでハイ/煽りベンチ
+      value: 煽りベンチ
+    - file-name: 徹夜明けでハイ/歌のモチベ高い
+      value: 歌のモチベ高い
+    - file-name: 徹夜明けでハイ/曲数増える
+      value: 曲数増える
+    - file-name: 徹夜明けでハイ/ふんふん1
+      value: ふんふん1
+    - file-name: 徹夜明けでハイ/ふんふん2
+      value: ふんふん2
+    - file-name: 徹夜明けでハイ/ふんふん3
+      value: ふんふん3
+    - file-name: 徹夜明けでハイ/ふんふん4
+      value: ふんふん4
+    - file-name: 徹夜明けでハイ/ふんふん5
+      value: ふんふん5
+    - file-name: 徹夜明けでハイ/竈門炭治郎のうたの話1
+      value: 竈門炭治郎のうたの話1
+    - file-name: 徹夜明けでハイ/うん
+      value: うん
+    - file-name: 徹夜明けでハイ/ありがとうございます
+      value: ありがとうございます
+    - file-name: 徹夜明けでハイ/竈門炭治郎のうたの話2
+      value: 竈門炭治郎のうたの話2
+    - file-name: 徹夜明けでハイ/そういうこと！
+      value: そういうこと！
+    - file-name: 徹夜明けでハイ/あと何歌おっかな〜
+      value: あと何歌おっかな〜
+    - file-name: 徹夜明けでハイ/ﾄﾝﾄﾝﾄﾝﾄﾝ
+      value: ﾄﾝﾄﾝﾄﾝﾄﾝ
+    - file-name: 徹夜明けでハイ/（なにかななにかな）
+      value: （なにかななにかな）
+    - file-name: 徹夜明けでハイ/ばくたんでも歌います
+      value: ばくたんでも歌います
+    - file-name: 徹夜明けでハイ/それでは。
+      value: それでは。
+  - - file-name: 徹夜明けでハイ/アンコール？今日はないよ
+      value: アンコール？今日はないよ
+    - file-name: 徹夜明けでハイ/おやすみなさ〜い
+      value: おやすみなさ〜い
+---
+{{ page.buttons | jsonify }}
