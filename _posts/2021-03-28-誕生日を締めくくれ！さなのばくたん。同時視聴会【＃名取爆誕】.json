@@ -1,0 +1,548 @@
+---
+stream_id: -j5qeqSkM2Q
+date: 2021-04-11
+buttons:
+  - - file-name: さなのばくたん同時視聴/おはようございナース
+      value: おはようございナース
+    - file-name: さなのばくたん同時視聴/音大
+      value: 音大
+    - file-name: さなのばくたん同時視聴/全編録画
+      value: 全編録画
+    - file-name: さなのばくたん同時視聴/待ちきれねえよ
+      value: 待ちきれねえよ
+    - file-name: さなのばくたん同時視聴/クエスト行ってきていい？
+      value: クエスト行ってきていい？
+    - file-name: さなのばくたん同時視聴/ノイズキャンセリングの話
+      value: ノイズキャンセリングの話
+    - file-name: さなのばくたん同時視聴/声全部ブロックされた
+      value: 声全部ブロックされた
+    - file-name: さなのばくたん同時視聴/後から名取
+      value: 後から名取
+    - file-name: さなのばくたん同時視聴/なんでさ
+      value: なんでさ
+    - file-name: さなのばくたん同時視聴/なんでご機嫌伺わなきゃいけないの
+      value: なんでご機嫌伺わなきゃいけないの
+    - file-name: さなのばくたん同時視聴/今は時期じゃないおじさん
+      value: 今は時期じゃないおじさん
+    - file-name: さなのばくたん同時視聴/NVIDIAの読みが分からない
+      value: NVIDIAの読みが分からない
+    - file-name: さなのばくたん同時視聴/ｵｹｵｹｹｹｹｹ？
+      value: ｵｹｵｹｹｹｹｹ？
+    - file-name: さなのばくたん同時視聴/タイマー何のために用意してんだよ！
+      value: タイマー何のために用意してんだよ！
+    - file-name: さなのばくたん同時視聴/トイレは行くな！
+      value: トイレは行くな！
+    - file-name: さなのばくたん同時視聴/おいもう押すぞ！
+      value: おいもう押すぞ！
+    - file-name: さなのばくたん同時視聴/よーいスタートｶﾁｯあっｺﾞﾒﾝ
+      value: よーいスタートｶﾁｯあっｺﾞﾒﾝ
+    - file-name: さなのばくたん同時視聴/ﾊﾟｶﾊﾟﾊﾟﾊﾟﾝﾊﾟｶﾊﾟﾊﾟﾊﾟﾝﾊﾟｶﾊﾟﾊﾟﾊﾟﾝﾁｬｰﾁｬｰ1
+      value: ﾊﾟｶﾊﾟﾊﾟﾊﾟﾝﾊﾟｶﾊﾟﾊﾟﾊﾟﾝﾊﾟｶﾊﾟﾊﾟﾊﾟﾝﾁｬｰﾁｬｰ1
+    - file-name: さなのばくたん同時視聴/ﾊﾟｶﾊﾟﾊﾟﾊﾟﾝﾊﾟｶﾊﾟﾊﾟﾊﾟﾝﾊﾟｶﾊﾟﾊﾟﾊﾟﾝﾁｬｰﾁｬｰ2
+      value: ﾊﾟｶﾊﾟﾊﾟﾊﾟﾝﾊﾟｶﾊﾟﾊﾟﾊﾟﾝﾊﾟｶﾊﾟﾊﾟﾊﾟﾝﾁｬｰﾁｬｰ2
+    - file-name: さなのばくたん同時視聴/止まっちゃった！
+      value: 止まっちゃった！
+  - - file-name: さなのばくたん同時視聴/みんな拍手！
+      value: みんな拍手！
+    - file-name: さなのばくたん同時視聴/ｽｲﾏｾﾝ・・・
+      value: ｽｲﾏｾﾝ・・・
+    - file-name: さなのばくたん同時視聴/拍手！
+      value: 拍手！
+    - file-name: さなのばくたん同時視聴/舌打ち
+      value: 舌打ち
+    - file-name: さなのばくたん同時視聴/はい！1
+      value: はい！1
+    - file-name: さなのばくたん同時視聴/はい！はい！1
+      value: はい！はい！1
+    - file-name: さなのばくたん同時視聴/さなー！
+      value: さなー！
+    - file-name: さなのばくたん同時視聴/大パーティー
+      value: 大パーティー
+    - file-name: さなのばくたん同時視聴/ｵﾝﾅﾉｺﾅﾓﾝﾃﾞﾖｫ
+      value: ｵﾝﾅﾉｺﾅﾓﾝﾃﾞﾖｫ
+    - file-name: さなのばくたん同時視聴/ヘイヘイヘイ！
+      value: ヘイヘイヘイ！
+    - file-name: さなのばくたん同時視聴/イェイ！1
+      value: イェイ！1
+    - file-name: さなのばくたん同時視聴/イェイ！2
+      value: イェイ！2
+    - file-name: さなのばくたん同時視聴/イェイ！3
+      value: イェイ！3
+    - file-name: さなのばくたん同時視聴/イェイ！4
+      value: イェイ！4
+    - file-name: さなのばくたん同時視聴/はい！はい！2
+      value: はい！はい！2
+    - file-name: さなのばくたん同時視聴/はい！はい！3
+      value: はい！はい！3
+    - file-name: さなのばくたん同時視聴/はい！はい！4
+      value: はい！はい！4
+    - file-name: さなのばくたん同時視聴/はい！はい！5
+      value: はい！はい！5
+    - file-name: さなのばくたん同時視聴/ﾁｭﾝﾁｭﾝ
+      value: ﾁｭﾝﾁｭﾝ
+    - file-name: さなのばくたん同時視聴/ﾊﾞﾌﾞｰ
+      value: ﾊﾞﾌﾞｰ
+  - - file-name: さなのばくたん同時視聴/イェイイェイェイ！
+      value: イェイイェイェイ！
+    - file-name: さなのばくたん同時視聴/イェイ！5
+      value: イェイ！5
+    - file-name: さなのばくたん同時視聴/イェイ！6
+      value: イェイ！6
+    - file-name: さなのばくたん同時視聴/イェイ！7
+      value: イェイ！7
+    - file-name: さなのばくたん同時視聴/ｴｯﾋﾞﾅｰｽﾃﾞｰ1
+      value: ｴｯﾋﾞﾅｰｽﾃﾞｰ1
+    - file-name: さなのばくたん同時視聴/ﾅﾄｰﾘｰ
+      value: ﾅﾄｰﾘｰ
+    - file-name: さなのばくたん同時視聴/ｴｯﾋﾞﾅｰｽﾃﾞｰ2
+      value: ｴｯﾋﾞﾅｰｽﾃﾞｰ2
+    - file-name: さなのばくたん同時視聴/ｻｰﾅｰ
+      value: ｻｰﾅｰ
+    - file-name: さなのばくたん同時視聴/せーの！
+      value: せーの！
+    - file-name: さなのばくたん同時視聴/な・と・り・さ・なー！
+      value: な・と・り・さ・なー！
+    - file-name: さなのばくたん同時視聴/できたねぇ！
+      value: できたねぇ！
+    - file-name: さなのばくたん同時視聴/イェイ！8
+      value: イェイ！8
+    - file-name: さなのばくたん同時視聴/イェイ！9
+      value: イェイ！9
+    - file-name: さなのばくたん同時視聴/イェイ！10
+      value: イェイ！10
+    - file-name: さなのばくたん同時視聴/イェイ！11
+      value: イェイ！11
+    - file-name: さなのばくたん同時視聴/はい！はい！なとり！1
+      value: はい！はい！なとり！1
+    - file-name: さなのばくたん同時視聴/はい！はい！インターネット！
+      value: はい！はい！インターネット！
+    - file-name: さなのばくたん同時視聴/はい！はい！なとり！2
+      value: はい！はい！なとり！2
+    - file-name: さなのばくたん同時視聴/はい！はい！さなー！
+      value: はい！はい！さなー！
+    - file-name: さなのばくたん同時視聴/ファッ！？1
+      value: ファッ！？1
+  - - file-name: さなのばくたん同時視聴/はい！2
+      value: はい！2
+    - file-name: さなのばくたん同時視聴/はい！3
+      value: はい！3
+    - file-name: さなのばくたん同時視聴/はい！4
+      value: はい！4
+    - file-name: さなのばくたん同時視聴/はい！5
+      value: はい！5
+    - file-name: さなのばくたん同時視聴/はい！6
+      value: はい！6
+    - file-name: さなのばくたん同時視聴/はい！7
+      value: はい！7
+    - file-name: さなのばくたん同時視聴/ﾍｲｵﾏﾁ！
+      value: ﾍｲｵﾏﾁ！
+    - file-name: さなのばくたん同時視聴/ﾊｳﾏｯﾁ
+      value: ﾊｳﾏｯﾁ
+    - file-name: さなのばくたん同時視聴/ﾒｰﾃﾞｰ
+      value: ﾒｰﾃﾞｰ
+    - file-name: さなのばくたん同時視聴/来了
+      value: 来了
+    - file-name: さなのばくたん同時視聴/ﾁｬｲﾅｰ1
+      value: ﾁｬｲﾅｰ1
+    - file-name: さなのばくたん同時視聴/TGK
+      value: TGK
+    - file-name: さなのばくたん同時視聴/ファッ！？2
+      value: ファッ！？2
+    - file-name: さなのばくたん同時視聴/はい！8
+      value: はい！8
+    - file-name: さなのばくたん同時視聴/ヘイ！1
+      value: ヘイ！1
+    - file-name: さなのばくたん同時視聴/ヘイ！2
+      value: ヘイ！2
+    - file-name: さなのばくたん同時視聴/ヘイ！3
+      value: ヘイ！3
+    - file-name: さなのばくたん同時視聴/ヘイ！4
+      value: ヘイ！4
+    - file-name: さなのばくたん同時視聴/ヘイ！5
+      value: ヘイ！5
+    - file-name: さなのばくたん同時視聴/ヘイ！6
+      value: ヘイ！6
+  - - file-name: さなのばくたん同時視聴/ﾓｰﾏﾝﾀｲ
+      value: ﾓｰﾏﾝﾀｲ
+    - file-name: さなのばくたん同時視聴/ｽｶﾝﾋﾟｰﾝ
+      value: ｽｶﾝﾋﾟｰﾝ
+    - file-name: さなのばくたん同時視聴/戦略的撤退
+      value: 戦略的撤退
+    - file-name: さなのばくたん同時視聴/タ・イ・ガ・ー！
+      value: タ・イ・ガ・ー！
+    - file-name: さなのばくたん同時視聴/夜叉の構え！
+      value: 夜叉の構え！
+    - file-name: さなのばくたん同時視聴/ｲｸｻﾉｶﾈｶﾞﾅﾙｰ
+      value: ｲｸｻﾉｶﾈｶﾞﾅﾙｰ
+    - file-name: さなのばくたん同時視聴/ﾁｬｲﾅｰ2
+      value: ﾁｬｲﾅｰ2
+    - file-name: さなのばくたん同時視聴/ハァイ！1
+      value: ハァイ！1
+    - file-name: さなのばくたん同時視聴/ハァイ！2
+      value: ハァイ！2
+    - file-name: さなのばくたん同時視聴/ハァイ！3
+      value: ハァイ！3
+    - file-name: さなのばくたん同時視聴/ハァイ！4
+      value: ハァイ！4
+    - file-name: さなのばくたん同時視聴/ハァイ！5
+      value: ハァイ！5
+    - file-name: さなのばくたん同時視聴/ハァイ！6
+      value: ハァイ！6
+    - file-name: さなのばくたん同時視聴/ハァイ！7
+      value: ハァイ！7
+    - file-name: さなのばくたん同時視聴/ギミーレボリューション
+      value: ギミーレボリューション
+    - file-name: さなのばくたん同時視聴/選曲優勝でしょ
+      value: 選曲優勝でしょ
+    - file-name: さなのばくたん同時視聴/YouaremyHERO！！
+      value: You are my HERO！！
+    - file-name: さなのばくたん同時視聴/OK！
+      value: OK！
+    - file-name: さなのばくたん同時視聴/カモン！
+      value: カモン！
+    - file-name: さなのばくたん同時視聴/アリガトウゴザイマス
+      value: アリガトウゴザイマス
+  - - file-name: さなのばくたん同時視聴/ミスをごまかす
+      value: ミスをごまかす
+    - file-name: さなのばくたん同時視聴/ﾚｽｷｭｰ！
+      value: ﾚｽｷｭｰ！
+    - file-name: さなのばくたん同時視聴/歴史の上塗り
+      value: 歴史の上塗り
+    - file-name: さなのばくたん同時視聴/言わなくていい！
+      value: 言わなくていい！
+    - file-name: さなのばくたん同時視聴/笑い声1
+      value: 笑い声1
+    - file-name: さなのばくたん同時視聴/ウワー！ﾄﾞﾛｰﾝﾌﾞﾝﾌﾞﾝﾌﾞﾝﾌﾞﾝ
+      value: ウワー！ﾄﾞﾛｰﾝﾌﾞﾝﾌﾞﾝﾌﾞﾝﾌﾞﾝ
+    - file-name: さなのばくたん同時視聴/誕生日おめでとう！
+      value: 誕生日おめでとう！
+    - file-name: さなのばくたん同時視聴/この人名取さなっていうらしい
+      value: この人名取さなっていうらしい
+    - file-name: さなのばくたん同時視聴/なんか疲れてない？
+      value: なんか疲れてない？
+    - file-name: さなのばくたん同時視聴/ドローン貸したろか？
+      value: ドローン貸したろか？
+    - file-name: さなのばくたん同時視聴/ｳｲｰﾝ
+      value: ｳｲｰﾝ
+    - file-name: さなのばくたん同時視聴/嘘つくな
+      value: 嘘つくな
+    - file-name: さなのばくたん同時視聴/ﾅﾆｰ！？
+      value: ﾅﾆｰ！？
+    - file-name: さなのばくたん同時視聴/ｲｲﾖｰ！
+      value: ｲｲﾖｰ！
+    - file-name: さなのばくたん同時視聴/えぇ・・・
+      value: えぇ・・・
+    - file-name: さなのばくたん同時視聴/自意識に押し潰されるな
+      value: 自意識に押し潰されるな
+    - file-name: さなのばくたん同時視聴/ｽｷｽｷｽｷｽｷｰ
+      value: ｽｷｽｷｽｷｽｷｰ
+    - file-name: さなのばくたん同時視聴/笑い声2
+      value: 笑い声2
+    - file-name: さなのばくたん同時視聴/ひど〜い
+      value: ひど〜い
+    - file-name: さなのばくたん同時視聴/悪魔的所業
+      value: 悪魔的所業
+  - - file-name: さなのばくたん同時視聴/いらね〜
+      value: いらね〜
+    - file-name: さなのばくたん同時視聴/（ﾊﾟﾁﾊﾟﾁﾊﾟﾁﾊﾟﾁﾊﾟﾁ）
+      value: （ﾊﾟﾁﾊﾟﾁﾊﾟﾁﾊﾟﾁﾊﾟﾁ）
+    - file-name: さなのばくたん同時視聴/笑い声3
+      value: 笑い声3
+    - file-name: さなのばくたん同時視聴/ﾃｰﾝ！
+      value: ﾃｰﾝ！
+    - file-name: さなのばくたん同時視聴/ﾃﾞﾃﾞﾃﾞｯ
+      value: ﾃﾞﾃﾞﾃﾞｯ
+    - file-name: さなのばくたん同時視聴/老眼・・・ってコト！？
+      value: 老眼・・・ってコト！？
+    - file-name: さなのばくたん同時視聴/この名取さな名取さな上手いな
+      value: この名取さな名取さな上手いな
+    - file-name: さなのばくたん同時視聴/怖いね〜
+      value: 怖いね〜
+    - file-name: さなのばくたん同時視聴/よし、楽しく話せたな！
+      value: よし、楽しく話せたな！
+    - file-name: さなのばくたん同時視聴/ハモるな
+      value: ハモるな
+    - file-name: さなのばくたん同時視聴/ここループポイント
+      value: ここループポイント
+    - file-name: さなのばくたん同時視聴/それそれそれ！
+      value: それそれそれ！
+    - file-name: さなのばくたん同時視聴/わかる！
+      value: わかる！
+    - file-name: さなのばくたん同時視聴/しょーもな
+      value: しょーもな
+    - file-name: さなのばくたん同時視聴/いらない
+      value: いらない
+    - file-name: さなのばくたん同時視聴/今日は歌ってもいいのか！？
+      value: 今日は歌ってもいいのか！？
+    - file-name: さなのばくたん同時視聴/ハッピーバースデー
+      value: ハッピーバースデー
+    - file-name: さなのばくたん同時視聴/ﾌｩｩｩｩｩ
+      value: ﾌｩｩｩｩｩ
+    - file-name: さなのばくたん同時視聴/（真っ暗なっちゃった）
+      value: （真っ暗なっちゃった）
+    - file-name: さなのばくたん同時視聴/ヘイ！7
+      value: ヘイ！7
+  - - file-name: さなのばくたん同時視聴/ヘイ！8
+      value: ヘイ！8
+    - file-name: さなのばくたん同時視聴/ヘイ！9
+      value: ヘイ！9
+    - file-name: さなのばくたん同時視聴/ヘイ！10
+      value: ヘイ！10
+    - file-name: さなのばくたん同時視聴/オ〜ッハイ！1
+      value: オ〜ッハイ！1
+    - file-name: さなのばくたん同時視聴/オ〜ッハイ！2
+      value: オ〜ッハイ！2
+    - file-name: さなのばくたん同時視聴/オ〜ッ1
+      value: オ〜ッ1
+    - file-name: さなのばくたん同時視聴/オ〜ッ2
+      value: オ〜ッ2
+    - file-name: さなのばくたん同時視聴/ﾅﾄﾘｰ！1
+      value: ﾅﾄﾘｰ！1
+    - file-name: さなのばくたん同時視聴/ﾅﾄﾘｰ！2
+      value: ﾅﾄﾘｰ！2
+    - file-name: さなのばくたん同時視聴/鼻歌1
+      value: 鼻歌1
+    - file-name: さなのばくたん同時視聴/PINK！PINK！All_PINK！1
+      value: PINK！PINK！All PINK！1
+    - file-name: さなのばくたん同時視聴/PINK！PINK！All_PINK！2
+      value: PINK！PINK！All PINK！2
+    - file-name: さなのばくたん同時視聴/キミの愛を伝えてもっと
+      value: キミの愛を伝えてもっと
+    - file-name: さなのばくたん同時視聴/だだっだっ！
+      value: だだっだっ！
+    - file-name: さなのばくたん同時視聴/はい！はい！はい！はい！1
+      value: はい！はい！はい！はい！1
+    - file-name: さなのばくたん同時視聴/はい！はい！はい！はい！2
+      value: はい！はい！はい！はい！2
+    - file-name: さなのばくたん同時視聴/へい！へい！へい！へい！
+      value: へい！へい！へい！へい！
+    - file-name: さなのばくたん同時視聴/PINK！PINK！All_PINK！3
+      value: PINK！PINK！All PINK！3
+    - file-name: さなのばくたん同時視聴/PINK！PINK！All_PINK！4
+      value: PINK！PINK！All PINK！4
+    - file-name: さなのばくたん同時視聴/PINK！PINK！All_PINK！5
+      value: PINK！PINK！All PINK！5
+  - - file-name: さなのばくたん同時視聴/おっけー
+      value: おっけー
+    - file-name: さなのばくたん同時視聴/呼んでくれるらしい！
+      value: 呼んでくれるらしい！
+    - file-name: さなのばくたん同時視聴/俺じゃない1
+      value: 俺じゃない1
+    - file-name: さなのばくたん同時視聴/俺じゃない2
+      value: 俺じゃない2
+    - file-name: さなのばくたん同時視聴/俺呼ばれないかな
+      value: 俺呼ばれないかな
+    - file-name: さなのばくたん同時視聴/ｳﾜｱｱｱｱｱインターネットです！
+      value: ｳﾜｱｱｱｱｱインターネットです！
+    - file-name: さなのばくたん同時視聴/ｵﾒﾃﾞﾄｳ
+      value: ｵﾒﾃﾞﾄｳ
+    - file-name: さなのばくたん同時視聴/お前は俺か
+      value: お前は俺か
+    - file-name: さなのばくたん同時視聴/俺だったわ
+      value: 俺だったわ
+    - file-name: さなのばくたん同時視聴/うん1
+      value: うん1
+    - file-name: さなのばくたん同時視聴/モモーイの優しさ
+      value: モモーイの優しさ
+    - file-name: さなのばくたん同時視聴/うん2
+      value: うん2
+    - file-name: さなのばくたん同時視聴/土下座ですかねぇ
+      value: 土下座ですかねぇ
+    - file-name: さなのばくたん同時視聴/確かに
+      value: 確かに
+    - file-name: さなのばくたん同時視聴/土下座（せんせえ）
+      value: 土下座（せんせえ）
+    - file-name: さなのばくたん同時視聴/なにこのタイミング怖いわ！
+      value: なにこのタイミング怖いわ！
+    - file-name: さなのばくたん同時視聴/改めて見たらすごいな
+      value: 改めて見たらすごいな
+    - file-name: さなのばくたん同時視聴/ﾃﾁﾃﾁﾃﾁﾃﾁ
+      value: ﾃﾁﾃﾁﾃﾁﾃﾁ
+    - file-name: さなのばくたん同時視聴/意味分かってんのかな
+      value: 意味分かってんのかな
+    - file-name: さなのばくたん同時視聴/回答の誘導は犯罪ですよ！1
+      value: 回答の誘導は犯罪ですよ！1
+  - - file-name: さなのばくたん同時視聴/回答の誘導は犯罪ですよ！2
+      value: 回答の誘導は犯罪ですよ！2
+    - file-name: さなのばくたん同時視聴/露骨な誘導
+      value: 露骨な誘導
+    - file-name: さなのばくたん同時視聴/頭回ってない
+      value: 頭回ってない
+    - file-name: さなのばくたん同時視聴/回答の誘導は犯罪ですよ！3
+      value: 回答の誘導は犯罪ですよ！3
+    - file-name: さなのばくたん同時視聴/ふん1
+      value: ふん1
+    - file-name: さなのばくたん同時視聴/笑い声4
+      value: 笑い声4
+    - file-name: さなのばくたん同時視聴/まだ話してるんだけど！
+      value: まだ話してるんだけど！
+    - file-name: さなのばくたん同時視聴/怖いわこれ〜
+      value: 怖いわこれ〜
+    - file-name: さなのばくたん同時視聴/うん3
+      value: うん3
+    - file-name: さなのばくたん同時視聴/見ています
+      value: 見ています
+    - file-name: さなのばくたん同時視聴/反乱が怖い
+      value: 反乱が怖い
+    - file-name: さなのばくたん同時視聴/うん！
+      value: うん！
+    - file-name: さなのばくたん同時視聴/ﾁｯﾁｯﾁｯﾁｯ1
+      value: ﾁｯﾁｯﾁｯﾁｯ1
+    - file-name: さなのばくたん同時視聴/ここ伏線
+      value: ここ伏線
+    - file-name: さなのばくたん同時視聴/悲しいねぇ〜
+      value: 悲しいねぇ〜
+    - file-name: さなのばくたん同時視聴/ｴｯ俺！？
+      value: ｴｯ俺！？
+    - file-name: さなのばくたん同時視聴/ﾁｯﾁｯﾁｯﾁｯ2
+      value: ﾁｯﾁｯﾁｯﾁｯ2
+    - file-name: さなのばくたん同時視聴/ふん??2
+      value: ふん??2
+    - file-name: さなのばくたん同時視聴/ﾁｯﾁｯﾁｯﾁｯ3
+      value: ﾁｯﾁｯﾁｯﾁｯ3
+    - file-name: さなのばくたん同時視聴/これ嫌い
+      value: これ嫌い
+  - - file-name: さなのばくたん同時視聴/うん4
+      value: うん4
+    - file-name: さなのばくたん同時視聴/ここちょっとマジで焦った
+      value: ここちょっとマジで焦った
+    - file-name: さなのばくたん同時視聴/うん5
+      value: うん5
+    - file-name: さなのばくたん同時視聴/なぜ〜？
+      value: なぜ〜？
+    - file-name: さなのばくたん同時視聴/ﾋﾞｷﾋﾞｷﾋﾞｷﾋﾞｷ
+      value: ﾋﾞｷﾋﾞｷﾋﾞｷﾋﾞｷ
+    - file-name: さなのばくたん同時視聴/怒ってるな〜
+      value: 怒ってるな〜
+    - file-name: さなのばくたん同時視聴/ぽまいら〜
+      value: ぽまいら〜
+    - file-name: さなのばくたん同時視聴/偉い！
+      value: 偉い！
+    - file-name: さなのばくたん同時視聴/ﾁｯﾃｯﾁｯﾃｯ
+      value: ﾁｯﾃｯﾁｯﾃｯ
+    - file-name: さなのばくたん同時視聴/食い気味な速さ
+      value: 食い気味な速さ
+    - file-name: さなのばくたん同時視聴/うん6
+      value: うん6
+    - file-name: さなのばくたん同時視聴/ﾅﾆﾅﾆﾅﾆﾅﾆ！？
+      value: ﾅﾆﾅﾆﾅﾆﾅﾆ！？
+    - file-name: さなのばくたん同時視聴/何飲んでんのー！？
+      value: 何飲んでんのー！？
+    - file-name: さなのばくたん同時視聴/ｴｴｴｴｴｴｴ
+      value: ｴｴｴｴｴｴｴ
+    - file-name: さなのばくたん同時視聴/楽しみだな〜
+      value: 楽しみだな〜
+    - file-name: さなのばくたん同時視聴/驚き1
+      value: 驚き1
+    - file-name: さなのばくたん同時視聴/すげえよかった
+      value: すげえよかった
+    - file-name: さなのばくたん同時視聴/うん7
+      value: うん7
+    - file-name: さなのばくたん同時視聴/うん8
+      value: うん8
+    - file-name: さなのばくたん同時視聴/段取り間違えちゃった
+      value: 段取り間違えちゃった
+  - - file-name: さなのばくたん同時視聴/驚き2
+      value: 驚き2
+    - file-name: さなのばくたん同時視聴/ｼｼｼｼｼｼ新曲！？
+      value: ｼｼｼｼｼｼ新曲！？
+    - file-name: さなのばくたん同時視聴/誰誰誰誰ﾀﾞrrrrrrrr誰！？
+      value: 誰誰誰誰ﾀﾞrrrrrrrr誰！？
+    - file-name: さなのばくたん同時視聴/驚き3
+      value: 驚き3
+    - file-name: さなのばくたん同時視聴/ヤバすぎるだろ
+      value: ヤバすぎるだろ
+    - file-name: さなのばくたん同時視聴/さんさーら！
+      value: さんさーら！
+    - file-name: さなのばくたん同時視聴/怪しいと思ったんだ〜
+      value: 怪しいと思ったんだ〜
+    - file-name: さなのばくたん同時視聴/もう終わっちゃうの〜！？
+      value: もう終わっちゃうの〜！？
+    - file-name: さなのばくたん同時視聴/あたし？
+      value: あたし？
+    - file-name: さなのばくたん同時視聴/うん9
+      value: うん9
+    - file-name: さなのばくたん同時視聴/ｵｹｵｹｵｹｵｯｹｲ
+      value: ｵｹｵｹｵｹｵｯｹｲ
+    - file-name: さなのばくたん同時視聴/うん10
+      value: うん10
+    - file-name: さなのばくたん同時視聴/静かに
+      value: 静かに
+    - file-name: さなのばくたん同時視聴/鼻歌2
+      value: 鼻歌2
+    - file-name: さなのばくたん同時視聴/鼻歌3
+      value: 鼻歌3
+    - file-name: さなのばくたん同時視聴/美しいな〜
+      value: 美しいな〜
+    - file-name: さなのばくたん同時視聴/早いな
+      value: 早いな
+    - file-name: さなのばくたん同時視聴/ﾌﾝﾌﾝﾌﾝﾌﾝ
+      value: ﾌﾝﾌﾝﾌﾝﾌﾝ
+    - file-name: さなのばくたん同時視聴/ｳﾝｳﾝｳﾝｳﾝｳﾝ
+      value: ｳﾝｳﾝｳﾝｳﾝｳﾝ
+    - file-name: さなのばくたん同時視聴/誰だよスピード速くしてんのｗ
+      value: 誰だよスピード速くしてんのｗ
+  - - file-name: さなのばくたん同時視聴/はよ出てこい
+      value: はよ出てこい
+    - file-name: さなのばくたん同時視聴/超高速アンコール
+      value: 超高速アンコール
+    - file-name: さなのばくたん同時視聴/ムズいんだよ
+      value: ムズいんだよ
+    - file-name: さなのばくたん同時視聴/ふいんきに当てられる
+      value: ふいんきに当てられる
+    - file-name: さなのばくたん同時視聴/ｲｨﾝ
+      value: ｲｨﾝ
+    - file-name: さなのばくたん同時視聴/情けな〜・・・
+      value: 情けな〜・・・
+    - file-name: さなのばくたん同時視聴/笑い声5
+      value: 笑い声5
+    - file-name: さなのばくたん同時視聴/ハナカミサマ
+      value: ハナカミサマ
+    - file-name: さなのばくたん同時視聴/うん11
+      value: うん11
+    - file-name: さなのばくたん同時視聴/笑い声6
+      value: 笑い声6
+    - file-name: さなのばくたん同時視聴/伏線回収
+      value: 伏線回収
+    - file-name: さなのばくたん同時視聴/うん12
+      value: うん12
+    - file-name: さなのばくたん同時視聴/うん13
+      value: うん13
+    - file-name: さなのばくたん同時視聴/聴きたーい
+      value: 聴きたーい
+    - file-name: さなのばくたん同時視聴/ご起立ください
+      value: ご起立ください
+    - file-name: さなのばくたん同時視聴/知ってる曲だああああ
+      value: 知ってる曲だああああ
+    - file-name: さなのばくたん同時視聴/＼おはようございナース／
+      value: ＼おはようございナース／
+    - file-name: さなのばくたん同時視聴/好きだよ名取ー！
+      value: 好きだよ名取ー！
+    - file-name: さなのばくたん同時視聴/俺もー！
+      value: 俺もー！
+    - file-name: さなのばくたん同時視聴/ってね！
+      value: ってね！
+  - - file-name: さなのばくたん同時視聴/笑い声7
+      value: 笑い声7
+    - file-name: さなのばくたん同時視聴/ピーナッツくん
+      value: ピーナッツくん
+    - file-name: さなのばくたん同時視聴/笑い声8
+      value: 笑い声8
+    - file-name: さなのばくたん同時視聴/すごいすごいすごい
+      value: すごいすごいすごい
+    - file-name: さなのばくたん同時視聴/いいイベントだった
+      value: いいイベントだった
+    - file-name: さなのばくたん同時視聴/良かった〜
+      value: 良かった〜
+    - file-name: さなのばくたん同時視聴/円盤出せ
+      value: 円盤出せ
+    - file-name: さなのばくたん同時視聴/グッズ通販開始＆商品追加
+      value: グッズ通販開始＆商品追加
+    - file-name: さなのばくたん同時視聴/新学期
+      value: 新学期
+    - file-name: さなのばくたん同時視聴/また後ほど
+      value: また後ほど
+    - file-name: さなのばくたん同時視聴/スペシャルサンクス
+      value: スペシャルサンクス
+---
+{{ page.buttons | jsonify }}
