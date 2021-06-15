@@ -1,6 +1,7 @@
 user-agent: *
-disallow: /odanobu
 disallow: /api
+disallow: /odanobu
+disallow: /events.html
 disallow: /index2.html
 
 sitemap: https://www.natorisana.love/sitemap.xml
