@@ -1,0 +1,6 @@
+user-agent: *
+disallow: /odanobu
+disallow: /api
+disallow: /index2.html
+
+sitemap: https://www.natorisana.love/sitemap.xml
