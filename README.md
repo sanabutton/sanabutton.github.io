@@ -34,4 +34,4 @@ sitemap は、例えば「配信ごとのボタンの一覧を返す JSON ファ
 - [posts.json](https://www.natorisana.love/api/v1/posts.json) Jekyll のビルドイン変数 `site.posts` をそのまま JSON にしたもの（ブラウザでは開けないサイズ）
 - [buttons.json](https://www.natorisana.love/api/v1/buttons.json) ボタンの一覧（ブラウザでは開けないサイズ）
 
-各配信ごとのボタンは、 `/api/button/{title}.json` というパスになっています。一覧系の post-list.json を見ればわかりますね。
+各配信ごとのボタンは、 `/api/button/{title}.json` というパスになっています。一覧系の post-list.json を見てください。
