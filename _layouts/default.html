@@ -1,3 +1,6 @@
+---
+noindex: false
+---
 <!doctype html>
 
 <html lang="ja">
@@ -7,7 +10,7 @@
   <meta name="viewport" content="initial-scale=1">
   <title>{{ site.title }}</title>
   <meta name="description" content="{{ site.description | strip_newlines }}">
-  {% if (noindex === true) %}<meta name="robots" content="noindex">{% endif %}
+  {% if (noindex == true) %}<meta name="robots" content="noindex">{% endif %}
 
   <!-- og;The Open Graph protocol -->
   <meta property="og:title" content="{{ site.title }}">
