@@ -1,6 +1,11 @@
 {
   "extends": [
     "config:base",
-    ":disableDependencyDashboard"
+    ":disableDependencyDashboard",
+    ":prHourlyLimitNone",
+    ":prConcurrentLimitNone",
+    "preview:dockerCompose",
+    "preview:dockerVersions",
+    ":automergeMinor"
   ]
 }
