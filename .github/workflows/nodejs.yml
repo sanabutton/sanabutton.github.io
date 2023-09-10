@@ -2,9 +2,14 @@ name: Node CI
 
 on:
   push:
+<<<<<<< HEAD
+    branches: ["main", "master", "development"]
+  pull_request: ["main", "master", "development"]
+=======
     branches: [ "main", "master", "development" ]
   pull_request:
       branches: [ "main", "master", "development" ]
+>>>>>>> 90fd54843401232cacde39fbd45b086eb055e713
 
 jobs:
   build:
