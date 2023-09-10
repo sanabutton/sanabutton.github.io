@@ -6,9 +6,9 @@
     "test": "run-p lint",
     "build": "bundle exec jekyll build",
     "watch": "bundle exec jekyll build --watch",
-    "lint": "prettier -l \"**/*\"",
+    "lint": "prettier -u -l \"**/*\"",
     "fmt": "run-s format",
-    "format": "prettier --write \"**/*\""
+    "format": "prettier -u -w \"**/*\""
   },
   "devDependencies": {
     "npm-run-all": "4.1.5",
