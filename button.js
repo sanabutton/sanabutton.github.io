@@ -169,7 +169,7 @@ document.addEventListener("DOMContentLoaded", function () {
    * YouTube動画ボタンクリック時の処理
    */
   var youtubeSounds = document.getElementsByClassName(
-    soundYoutubeButtonClassName
+    soundYoutubeButtonClassName,
   );
   for (var i = 0, l = youtubeSounds.length; l > i; i++) {
     youtubeSounds[i].onclick = function () {
