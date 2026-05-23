@@ -11,7 +11,7 @@
     "format": "prettier -u -w \"**/*\""
   },
   "devDependencies": {
-    "npm-run-all2": "8.0.4",
+    "npm-run-all2": "9.0.1",
     "prettier": "3.8.3"
   }
 }
