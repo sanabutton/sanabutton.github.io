@@ -12,6 +12,6 @@
   },
   "devDependencies": {
     "npm-run-all2": "9.0.2",
-    "prettier": "3.9.3"
+    "prettier": "3.9.4"
   }
 }
